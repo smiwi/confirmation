@@ -1,0 +1,785 @@
+index,PN_URL,edprinc,TM_ID,PN_title,provenance,daterange,language,translation,image,multiple_TMs,trema_status,,batch_order
+547,http://www.papyri.info/ddbdp/bgu;11;2130,bgu 11 2130,30447,Edict of a Praefect Concerning Archives;,Oxyrhynchos;,127 CE;," grc, grc;",None;,None;,no,no editorial tremas,,1
+546,http://www.papyri.info/ddbdp/bgu;4;1031,bgu 4 1031,27747,"Eingabe, betreffend ein vor dem Archidikastes anhängiges Verfahren;",Oxyrhynchos;,266 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,0
+4,http://www.papyri.info/ddbdp/c.pap.gr;2.1;15,c.pap.gr 2.1 15,15658,Notice of the Deaths of Slaves;,Oxyrhynchos;,78 CE - 79 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,3
+2,http://www.papyri.info/ddbdp/chr.mitt;;188,chr.mitt 188,20696,Edict of a Praefect Concerning Archives;,Oxyrhynchos;,127 CE;," grc, grc;",None;,None;,no,has marked tremas,,1
+3,http://www.papyri.info/ddbdp/chr.mitt;;196,chr.mitt 196,23521,Auskunftserteilung durch die βιβλιοφύλακες ἐγκτήσεων über das Vermögen eines Inquisiten;,Oxyrhynchos;,309 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,2
+1,http://www.papyri.info/ddbdp/chr.mitt;;75,chr.mitt 75,19434,"Eingabe, betreffend ein vor dem Archidikastes anhängiges Verfahren;",Oxyrhynchos;,266 CE;," grc, grc;",None;,"Img (ext.), Print;",no,has marked tremas,,0
+5,http://www.papyri.info/ddbdp/p.amh;2;136,p.amh 2 136,21701,Letter of Apion;,Oxyrhynchos;,196 CE - 198 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,4
+738,http://www.papyri.info/ddbdp/p.bagnall;;45r,p.bagnall 45r,219315,"Eingabe, betreffend ein vor dem Archidikastes anhängiges Verfahren;",Oxyrhynchos;,266 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,0
+6,http://www.papyri.info/ddbdp/p.cair.preis.2;;32,p.cair.preis.2 32,20216,Official Confirmation of the Return of a Will;,Oxyrhynchos;,116 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,5
+548,http://www.papyri.info/ddbdp/p.cair.preis.2;;48,p.cair.preis.2 48,28274,Auskunftserteilung durch die βιβλιοφύλακες ἐγκτήσεων über das Vermögen eines Inquisiten;,Oxyrhynchos;,309 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,2
+7,http://www.papyri.info/ddbdp/p.col;10;265,p.col 10 265,22266,Letter to a Tax - Farmer of the xenike praktoria;,Oxyrhynchos;,206 CE - 212 CE;," grc, grc;",None;,"Img, Img (ext.), Print;",no,no editorial tremas,,6
+549,http://www.papyri.info/ddbdp/p.col;10;276,p.col 10 276,22271,Notice of the Deaths of Slaves;,Oxyrhynchos;,78 CE - 79 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,3
+767,http://www.papyri.info/ddbdp/p.coll.youtie;1;22,p.coll.youtie 1 22,15847,"Eingabe, betreffend ein vor dem Archidikastes anhängiges Verfahren;",Oxyrhynchos;,266 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,0
+8,http://www.papyri.info/ddbdp/p.coll.youtie;1;51,p.coll.youtie 1 51,26672,Invitation to the Kline of Sarapis;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,"Img, Img (ext.), Print;",no,no editorial tremas,,7
+9,http://www.papyri.info/ddbdp/p.coll.youtie;1;52,p.coll.youtie 1 52,26673,Invitation to the Kline of Sarapis;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,"Img, Img (ext.), Print;",no,no editorial tremas,,8
+711,http://www.papyri.info/ddbdp/p.congr.xv;;20,p.congr.xv 20,32157,"Eingabe, betreffend ein vor dem Archidikastes anhängiges Verfahren;",Oxyrhynchos;,266 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,0
+10,http://www.papyri.info/ddbdp/p.corn;;46,p.corn 46,20912,Letter of Fishermen to a Strategus;,Oxyrhynchos;,128 CE - 131 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,9
+736,http://www.papyri.info/ddbdp/p.daris;;4,p.daris 4,322168,"Eingabe, betreffend ein vor dem Archidikastes anhängiges Verfahren;",Oxyrhynchos;,266 CE;," grc, grc;",None;,"Img (ext.), Print;",no,has marked tremas,,0
+551,http://www.papyri.info/ddbdp/p.dubl;;15,p.dubl 15,28940,Official Confirmation of the Return of a Will;,Oxyrhynchos;,116 CE;," grc, grc;",None;,"Img (ext.), Print;",no,has marked tremas,,5
+550,http://www.papyri.info/ddbdp/p.dubl;;6,p.dubl 6,21604,Letter of Apion;,Oxyrhynchos;,196 CE - 198 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,4
+11,http://www.papyri.info/ddbdp/p.fouad;;28,p.fouad 28,20980,Plainte au sujet d’une ruade;,Oxyrhynchos;,59 CE;," grc, grc;",None;,None;,no,no editorial tremas,,10
+12,http://www.papyri.info/ddbdp/p.fuad.i.univ;;13,p.fuad.i.univ 13,21010,Official correspondence;,Oxyrhynchos;,297 CE - 298 CE;," grc, grc;",None;,None;,no,no editorial tremas,,11
+13,http://www.papyri.info/ddbdp/p.fuad.i.univ;;41r,p.fuad.i.univ 41r,31442,Miscellaneous papyri;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,None;,no,has marked tremas,,12
+683,"http://www.papyri.info/ddbdp/p.fuad.i.univ;;AppII,93",p.fuad.i.univ AppII,28678,"Eingabe, betreffend ein vor dem Archidikastes anhängiges Verfahren;",Oxyrhynchos;,266 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,0
+14,http://www.papyri.info/ddbdp/p.genova;1;12,p.genova 1 12,15725,Inizio di documento ufficiale;,Oxyrhynchos;,72 CE - 73 CE;," grc, grc;",None;,Print;,no,no editorial tremas,,13
+761,http://www.papyri.info/ddbdp/p.genova;4;170,p.genova 4 170,36287,"Eingabe, betreffend ein vor dem Archidikastes anhängiges Verfahren;",Oxyrhynchos;,266 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,0
+553,http://www.papyri.info/ddbdp/p.harr;1;103,p.harr 1 103,28709,Invitation to the Kline of Sarapis;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,"Img, Img (ext.), Print;",no,no editorial tremas,,7
+552,http://www.papyri.info/ddbdp/p.harr;1;80,p.harr 1 80,21068,Letter to a Tax - Farmer of the xenike praktoria;,Oxyrhynchos;,206 CE - 212 CE;," grc, grc;",None;,"Img, Img (ext.), Print;",no,has marked tremas,,6
+554,http://www.papyri.info/ddbdp/p.harr;2;230,p.harr 2 230,15224,Invitation to the Kline of Sarapis;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,"Img, Img (ext.), Print;",no,no editorial tremas,,8
+555,http://www.papyri.info/ddbdp/p.harr;2;231,p.harr 2 231,15225,Letter of Fishermen to a Strategus;,Oxyrhynchos;,128 CE - 131 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,9
+15,http://www.papyri.info/ddbdp/p.heid;7;401,p.heid 7 401,21664,Petition an den Präfekten von Ägypten Flavius Philagrius;,Oxyrhynchos;,334 CE - 340 CE;," grc, grc;",None;,"Img (ext.), Print;",no,has marked tremas,,14
+712,http://www.papyri.info/ddbdp/p.horak;;19,p.horak 19,78374,Edict of a Praefect Concerning Archives;,Oxyrhynchos;,127 CE;," grc, grc;",None;,None;,no,no editorial tremas,,1
+684,http://www.papyri.info/ddbdp/p.iand;6;106,p.iand 6 106,27155,Edict of a Praefect Concerning Archives;,Oxyrhynchos;,127 CE;," grc, grc;",None;,None;,no,has marked tremas,,1
+557,http://www.papyri.info/ddbdp/p.iand;6;119,p.iand 6 119,17339,Official correspondence;,Oxyrhynchos;,297 CE - 298 CE;," grc, grc;",None;,None;,no,has marked tremas,,11
+556,http://www.papyri.info/ddbdp/p.iand;6;93,p.iand 6 93,27152,Plainte au sujet d’une ruade;,Oxyrhynchos;,59 CE;," grc, grc;",None;,None;,no,no editorial tremas,,10
+16,http://www.papyri.info/ddbdp/p.iand;7;139,p.iand 7 139,17344,Rechtfertigung eines Dammaufsehers gegenüber dem Idioslogos;,Oxyrhynchos;,148 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,15
+743,http://www.papyri.info/ddbdp/p.ifao;3;18,p.ifao 3 18,21182,"Eingabe, betreffend ein vor dem Archidikastes anhängiges Verfahren;",Oxyrhynchos;,266 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,0
+776,http://papyri.info/ddbdp/p.koeln;2;105,p.koeln 2 105,21210,Letter: payment order,Oxyrhynchos,208 CE - 209 CE,"grc, grc;",None;,None;,21211,has marked tremas,,5
+708,http://www.papyri.info/ddbdp/p.koeln;2;105,p.koeln 2 105,21211,"Eingabe, betreffend ein vor dem Archidikastes anhängiges Verfahren;",Oxyrhynchos;,266 CE;," grc, grc;",None;,"Img (ext.), Print;",head,has marked tremas,,0
+17,http://www.papyri.info/ddbdp/p.koeln;2;113,p.koeln 2 113,31495,Anweisung an die Totengräber;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,16
+558,http://www.papyri.info/ddbdp/p.koeln;2;94,p.koeln 2 94,21200,Miscellaneous papyri;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,None;,no,no editorial tremas,,12
+559,http://www.papyri.info/ddbdp/p.koeln;3;137,p.koeln 3 137,21213,Inizio di documento ufficiale;,Oxyrhynchos;,72 CE - 73 CE;," grc, grc;",None;,Print;,no,no editorial tremas,,13
+18,http://www.papyri.info/ddbdp/p.koeln;3;142,p.koeln 3 142,21217,Gestellungsbürgschaft;,Oxyrhynchos;,173 CE - 174 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,17
+560,http://www.papyri.info/ddbdp/p.koeln;3;143,p.koeln 3 143,21218,Petition an den Präfekten von Ägypten Flavius Philagrius;,Oxyrhynchos;,334 CE - 340 CE;," grc, grc;",None;,"Img (ext.), Print;",no,has marked tremas,,14
+685,http://www.papyri.info/ddbdp/p.koeln;4;199,p.koeln 4 199,15468,Auskunftserteilung durch die βιβλιοφύλακες ἐγκτήσεων über das Vermögen eines Inquisiten;,Oxyrhynchos;,309 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,2
+19,http://www.papyri.info/ddbdp/p.laur;3;63,p.laur 3 63,21244,Copia (?) di un rapporto di episkepsis;,Oxyrhynchos;,159 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,18
+561,http://www.papyri.info/ddbdp/p.laur;4;153,p.laur 4 153,21255,Rechtfertigung eines Dammaufsehers gegenüber dem Idioslogos;,Oxyrhynchos;,148 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,15
+20,http://www.papyri.info/ddbdp/p.laur;4;155,p.laur 4 155,21257,Richiesta di pagamento da parte della corporazione τῶν χαλκέων;,Oxyrhynchos;,283 CE - 292 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,19
+562,http://www.papyri.info/ddbdp/p.lips;2;140,p.lips 2 140,78445,Anweisung an die Totengräber;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,16
+563,http://www.papyri.info/ddbdp/p.lips;2;141,p.lips 2 141,78446,Gestellungsbürgschaft;,Oxyrhynchos;,173 CE - 174 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,17
+713,http://www.papyri.info/ddbdp/p.louvre;2;99,p.louvre 2 99,88765,Auskunftserteilung durch die βιβλιοφύλακες ἐγκτήσεων über das Vermögen eines Inquisiten;,Oxyrhynchos;,309 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,2
+714,http://www.papyri.info/ddbdp/p.mert;1;23,p.mert 1 23,28779,Notice of the Deaths of Slaves;,Oxyrhynchos;,78 CE - 79 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,3
+21,http://www.papyri.info/ddbdp/p.mert;2;90,p.mert 2 90,21322,Letter of the Senate to the Strategus;,Oxyrhynchos;,310 CE - 311 CE;," grc, grc;",None;,Print;,no,has marked tremas,,20
+686,http://www.papyri.info/ddbdp/p.meyer;;19,p.meyer 19,28258,Notice of the Deaths of Slaves;,Oxyrhynchos;,78 CE - 79 CE;," grc, grc;",None;,"Img (ext.), Print;",no,has marked tremas,,3
+24,http://www.papyri.info/ddbdp/p.mich;11;623,p.mich 11 623,21369,Official Letter;,Oxyrhynchos;,188 CE - 190 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,23
+25,http://www.papyri.info/ddbdp/p.mich;18;787,p.mich 18 787,22194,Entwurf zu einer Eingabe (Neuedition von P.Mich. XI 616);,Oxyrhynchos;,181 CE - 183 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,24
+22,http://www.papyri.info/ddbdp/p.mich;3;171,p.mich 3 171,21334,Registration of an Apprentice;,Oxyrhynchos;,58 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,21
+23,http://www.papyri.info/ddbdp/p.mich;3;172,p.mich 3 172,21335,Registration of an Apprentice;,Oxyrhynchos;,62 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,22
+26,http://www.papyri.info/ddbdp/p.michael;;31,p.michael 31,21411,Fragment of official letter or petition;,Oxyrhynchos;,341 CE;," grc, grc;",None;,None;,no,has marked tremas,,25
+27,http://www.papyri.info/ddbdp/p.mil.vogl;1;11,p.mil.vogl 1 11,78532,Lettera di Theone ad Heraclide;,Oxyrhynchos;,101 CE - 150 CE;," grc, grc;",None;,Print;,no,no editorial tremas,,26
+687,http://www.papyri.info/ddbdp/p.nyu;2;20,p.nyu 2 20,121969,Letter of Apion;,Oxyrhynchos;,196 CE - 198 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,4
+564,http://www.papyri.info/ddbdp/p.oslo;2;49,p.oslo 2 49,28898,Copia (?) di un rapporto di episkepsis;,Oxyrhynchos;,159 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,18
+28,http://www.papyri.info/ddbdp/p.oslo;2;52,p.oslo 2 52,28900,Letter;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,27
+29,http://www.papyri.info/ddbdp/p.oslo;2;55,p.oslo 2 55,28903,Letter of Recommendation;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,28
+565,http://www.papyri.info/ddbdp/p.oslo;3;145,p.oslo 3 145,21559,Richiesta di pagamento da parte della corporazione τῶν χαλκέων;,Oxyrhynchos;,283 CE - 292 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,19
+32,http://www.papyri.info/ddbdp/p.oslo;3;146,p.oslo 3 146,21562,Orders for Delivery of Wine;,Oxyrhynchos;,296 CE - 330 CE;," grc, grc;",None;,None;,no,no editorial tremas,,31
+33,http://www.papyri.info/ddbdp/p.oslo;3;158,p.oslo 3 158,31639,Letter to an ἀρχιπροφήτης;,Oxyrhynchos;,276 CE - 300 CE;," grc, grc;",None;,None;,no,has marked tremas,,32
+566,http://www.papyri.info/ddbdp/p.oslo;3;186,p.oslo 3 186,31646,Letter of the Senate to the Strategus;,Oxyrhynchos;,310 CE - 311 CE;," grc, grc;",None;,Print;,no,no editorial tremas,,20
+30,http://www.papyri.info/ddbdp/p.oslo;3;84,p.oslo 3 84,21531,Letter of the Strategus of Alexandria concerning Two Stolen Camels;,Oxyrhynchos;,138 CE - 161 CE;," grc, grc;",None;,None;,no,has marked tremas,,29
+688,http://www.papyri.info/ddbdp/p.oslo;3;86,p.oslo 3 86,21533,Official Confirmation of the Return of a Will;,Oxyrhynchos;,116 CE;," grc, grc;",None;,"Img (ext.), Print;",no,has marked tremas,,5
+31,http://www.papyri.info/ddbdp/p.oslo;3;95,p.oslo 3 95,21537,Report of Public Physician;,Oxyrhynchos;,96 CE;," grc, grc;",None;,Print;,no,no editorial tremas,,30
+55,http://www.papyri.info/ddbdp/p.oxy;1;107,p.oxy 1 107,20766,Revocation of a Will;,Oxyrhynchos;,123 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,54
+56,http://www.papyri.info/ddbdp/p.oxy;1;113,p.oxy 1 113,28405,Letter;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,55
+57,http://www.papyri.info/ddbdp/p.oxy;1;114,p.oxy 1 114,28406,Letter Concerning Property in Pawn;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,Print;,no,has marked tremas,,56
+58,http://www.papyri.info/ddbdp/p.oxy;1;115,p.oxy 1 115,28407,Letter of Consolation;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,57
+59,http://www.papyri.info/ddbdp/p.oxy;1;116,p.oxy 1 116,28408,Letter;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,None;,no,no editorial tremas,,58
+60,http://www.papyri.info/ddbdp/p.oxy;1;117,p.oxy 1 117,28409,Letter;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,None;,no,has marked tremas,,59
+61,http://www.papyri.info/ddbdp/p.oxy;1;118,p.oxy 1 118,31345,Letter;,Oxyrhynchos;,276 CE - 300 CE;," grc, grc;",None;,None;,no,has marked tremas,,60
+62,http://www.papyri.info/ddbdp/p.oxy;1;119,p.oxy 1 119,28410,A Boy’s Letter;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,Print;,no,no editorial tremas,,61
+63,http://www.papyri.info/ddbdp/p.oxy;1;120,p.oxy 1 120,31346,Two Letters;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,None;,no,has marked tremas,,62
+64,http://www.papyri.info/ddbdp/p.oxy;1;121,p.oxy 1 121,31347,Letter;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,None;,no,has marked tremas,,63
+34,http://www.papyri.info/ddbdp/p.oxy;1;44,p.oxy 1 44,20706,Sale of Taxes;,Oxyrhynchos;,66 CE - 70 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,33
+35,http://www.papyri.info/ddbdp/p.oxy;1;45,p.oxy 1 45,20707,Land Distribution;,Oxyrhynchos;,95 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,34
+36,http://www.papyri.info/ddbdp/p.oxy;1;46,p.oxy 1 46,20708,Land Distribution;,Oxyrhynchos;,100 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,35
+37,http://www.papyri.info/ddbdp/p.oxy;1;47,p.oxy 1 47,20709,Land Distribution;,Oxyrhynchos;,83 CE - 88 CE;," grc, grc;",None;,None;,no,no editorial tremas,,36
+38,http://www.papyri.info/ddbdp/p.oxy;1;48,p.oxy 1 48,20710,Emancipation of a Slave;,Oxyrhynchos;,86 CE;," grc, grc;",None;,None;,no,no editorial tremas,,37
+39,http://www.papyri.info/ddbdp/p.oxy;1;49,p.oxy 1 49,20711,Emancipation of a Slave;,Oxyrhynchos;,100 CE;," grc, grc;",None;,None;,no,no editorial tremas,,38
+40,http://www.papyri.info/ddbdp/p.oxy;1;51,p.oxy 1 51,20713,Report of a Public Physician;,Oxyrhynchos;,173 CE;," grc, grc;",None;,Print;,no,has marked tremas,,39
+41,http://www.papyri.info/ddbdp/p.oxy;1;54,p.oxy 1 54,20716,Repair of Public Buildings;,Oxyrhynchos;,201 CE;," grc, grc;",None;,None;,no,no editorial tremas,,40
+42,http://www.papyri.info/ddbdp/p.oxy;1;55tripl,p.oxy 1 55tripl,20717,Embellishment of a New Street;,Oxyrhynchos;,283 CE;," grc, grc;",None;,None;,no,has marked tremas,,41
+43,http://www.papyri.info/ddbdp/p.oxy;1;56,p.oxy 1 56,20718,Appointment of a Guardian;,Oxyrhynchos;,203 CE;," grc, grc;",None;,Print;,no,no editorial tremas,,42
+44,http://www.papyri.info/ddbdp/p.oxy;1;57,p.oxy 1 57,20719,Peculation by a Treasury Official;,Oxyrhynchos;,195 CE - 196 CE;," grc, grc;",None;,None;,no,no editorial tremas,,43
+45,http://www.papyri.info/ddbdp/p.oxy;1;58,p.oxy 1 58,20720,Appointment of Treasury Officials;,Oxyrhynchos;,288 CE;," grc, grc;",None;,None;,no,has marked tremas,,44
+46,http://www.papyri.info/ddbdp/p.oxy;1;59,p.oxy 1 59,20721,Appointment of a Delegate;,Oxyrhynchos;,292 CE;," grc, grc;",None;,None;,no,has marked tremas,,45
+47,http://www.papyri.info/ddbdp/p.oxy;1;60,p.oxy 1 60,20722,Commissariat;,Oxyrhynchos;,323 CE;," grc, grc;",None;,None;,no,no editorial tremas,,46
+48,http://www.papyri.info/ddbdp/p.oxy;1;61,p.oxy 1 61,20723,Payment of a Fine;,Oxyrhynchos;,221 CE;," grc, grc;",None;,None;,no,no editorial tremas,,47
+49,http://www.papyri.info/ddbdp/p.oxy;1;62r,p.oxy 1 62r,20725,Letter of a Centurion;,Oxyrhynchos;,222 CE;," grc, grc;",None;,None;,no,no editorial tremas,,48
+50,http://www.papyri.info/ddbdp/p.oxy;1;62v,p.oxy 1 62v,20724,Letter of a Centurion;,Oxyrhynchos;,242 CE - 246 CE;," grc, grc;",None;,None;,no,no editorial tremas,,49
+51,http://www.papyri.info/ddbdp/p.oxy;1;63,p.oxy 1 63,28402,Lading and Inspection of Corn;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,50
+52,http://www.papyri.info/ddbdp/p.oxy;1;67dupl,p.oxy 1 67dupl,20727,Dispute Concerning Property;,Oxyrhynchos;,338 CE;," grc, grc;",None;,None;,no,has marked tremas,,51
+741,http://www.papyri.info/ddbdp/p.oxy;1;76,p.oxy 1 76,20735,"Eingabe, betreffend ein vor dem Archidikastes anhängiges Verfahren;",Oxyrhynchos;,266 CE;," grc, grc;",None;,"Img (ext.), Print;",no,has marked tremas,,0
+784,http://www.papyri.info/ddbdp/p.oxy;1;78,p.oxy 1 78,20737,Edict of a Praefect Concerning Archives;,Oxyrhynchos;,127 CE;," grc, grc;",None;,None;,20738,has marked tremas,,13
+744,http://www.papyri.info/ddbdp/p.oxy;1;78,p.oxy 1 78,20738,Edict of a Praefect Concerning Archives;,Oxyrhynchos;,127 CE;," grc, grc;",None;,None;,head,has marked tremas,,1
+764,http://www.papyri.info/ddbdp/p.oxy;1;80,p.oxy 1 80,20740,"Eingabe, betreffend ein vor dem Archidikastes anhängiges Verfahren;",Oxyrhynchos;,266 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,0
+53,http://www.papyri.info/ddbdp/p.oxy;1;86,p.oxy 1 86,20744,Complaint of a Pilot;,Oxyrhynchos;,338 CE;," grc, grc;",None;,None;,no,has marked tremas,,52
+54,http://www.papyri.info/ddbdp/p.oxy;1;88,p.oxy 1 88,20747,Order for Payment of Wheat;,Oxyrhynchos;,179 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,53
+783,http://www.papyri.info/ddbdp/p.oxy;10;1252,p.oxy 10 1252,21799,Letter of Apion;,Oxyrhynchos;,196 CE - 198 CE;," grc, grc;",None;,Img (ext.);,21800,has marked tremas,,12
+747,http://www.papyri.info/ddbdp/p.oxy;10;1252,p.oxy 10 1252,21800,Letter of Apion;,Oxyrhynchos;,196 CE - 198 CE;," grc, grc;",None;,Img (ext.);,head,has marked tremas,,4
+145,http://www.papyri.info/ddbdp/p.oxy;10;1254,p.oxy 10 1254,21792,Repair of Public Buildings;,Oxyrhynchos;,201 CE;," grc, grc;",None;,None;,no,no editorial tremas,,40
+146,http://www.papyri.info/ddbdp/p.oxy;10;1293,p.oxy 10 1293,21769,Embellishment of a New Street;,Oxyrhynchos;,283 CE;," grc, grc;",None;,None;,no,no editorial tremas,,41
+147,http://www.papyri.info/ddbdp/p.oxy;10;1294,p.oxy 10 1294,28986,Appointment of a Guardian;,Oxyrhynchos;,203 CE;," grc, grc;",None;,Print;,no,has marked tremas,,42
+148,http://www.papyri.info/ddbdp/p.oxy;10;1295,p.oxy 10 1295,28987,Peculation by a Treasury Official;,Oxyrhynchos;,195 CE - 196 CE;," grc, grc;",None;,None;,no,has marked tremas,,43
+149,http://www.papyri.info/ddbdp/p.oxy;10;1296,p.oxy 10 1296,31731,Appointment of Treasury Officials;,Oxyrhynchos;,288 CE;," grc, grc;",None;,None;,no,has marked tremas,,44
+150,http://www.papyri.info/ddbdp/p.oxy;10;1298,p.oxy 10 1298,21805,Appointment of a Delegate;,Oxyrhynchos;,292 CE;," grc, grc;",None;,None;,no,has marked tremas,,45
+151,http://www.papyri.info/ddbdp/p.oxy;10;1345,p.oxy 10 1345,28990,Commissariat;,Oxyrhynchos;,323 CE;," grc, grc;",None;,None;,no,no editorial tremas,,46
+152,http://www.papyri.info/ddbdp/p.oxy;10;1346,p.oxy 10 1346,28985,Payment of a Fine;,Oxyrhynchos;,221 CE;," grc, grc;",None;,None;,no,no editorial tremas,,47
+153,http://www.papyri.info/ddbdp/p.oxy;10;1347,p.oxy 10 1347,31736,Letter of a Centurion;,Oxyrhynchos;,222 CE;," grc, grc;",None;,None;,no,no editorial tremas,,48
+154,http://www.papyri.info/ddbdp/p.oxy;10;1348,p.oxy 10 1348,31737,Letter of a Centurion;,Oxyrhynchos;,242 CE - 246 CE;," grc, grc;",None;,None;,no,no editorial tremas,,49
+775,http://papyri.info/ddbdp/p.oxy;12;1408,p.oxy 12 1408,21817,Administration: report,Oxyrhynchos,? CE - 125 CE,"grc, grc;",None;,None;,21818,no editorial tremas,,4
+732,http://www.papyri.info/ddbdp/p.oxy;12;1408,p.oxy 12 1408,21818,"Eingabe, betreffend ein vor dem Archidikastes anhängiges Verfahren;",Oxyrhynchos;,266 CE;," grc, grc;",None;,"Img (ext.), Print;",head,no editorial tremas,,0
+575,http://www.papyri.info/ddbdp/p.oxy;12;1409,p.oxy 12 1409,21819,Letter of the Strategus of Alexandria concerning Two Stolen Camels;,Oxyrhynchos;,138 CE - 161 CE;," grc, grc;",None;,None;,no,has marked tremas,,29
+155,http://www.papyri.info/ddbdp/p.oxy;12;1419,p.oxy 12 1419,21827,Lading and Inspection of Corn;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,50
+576,http://www.papyri.info/ddbdp/p.oxy;12;1421,p.oxy 12 1421,31741,Report of Public Physician;,Oxyrhynchos;,96 CE;," grc, grc;",None;,Print;,no,no editorial tremas,,30
+577,http://www.papyri.info/ddbdp/p.oxy;12;1424,p.oxy 12 1424,21830,Orders for Delivery of Wine;,Oxyrhynchos;,296 CE - 330 CE;," grc, grc;",None;,None;,no,has marked tremas,,31
+578,http://www.papyri.info/ddbdp/p.oxy;12;1426,p.oxy 12 1426,21832,Letter to an ἀρχιπροφήτης;,Oxyrhynchos;,276 CE - 300 CE;," grc, grc;",None;,None;,no,has marked tremas,,32
+715,http://www.papyri.info/ddbdp/p.oxy;12;1429,p.oxy 12 1429,21833,Letter of Apion;,Oxyrhynchos;,196 CE - 198 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,4
+739,http://www.papyri.info/ddbdp/p.oxy;12;1430,p.oxy 12 1430,21834,"Eingabe, betreffend ein vor dem Archidikastes anhängiges Verfahren;",Oxyrhynchos;,266 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,0
+156,http://www.papyri.info/ddbdp/p.oxy;12;1463,p.oxy 12 1463,21865,Dispute Concerning Property;,Oxyrhynchos;,338 CE;," grc, grc;",None;,None;,no,has marked tremas,,51
+157,http://www.papyri.info/ddbdp/p.oxy;12;1467,p.oxy 12 1467,21868,Complaint of a Pilot;,Oxyrhynchos;,338 CE;," grc, grc;",None;,None;,no,has marked tremas,,52
+758,http://www.papyri.info/ddbdp/p.oxy;12;1469,p.oxy 12 1469,21870,"Eingabe, betreffend ein vor dem Archidikastes anhängiges Verfahren;",Oxyrhynchos;,266 CE;," grc, grc;",None;,"Img (ext.), Print;",no,has marked tremas,,0
+579,http://www.papyri.info/ddbdp/p.oxy;12;1470,p.oxy 12 1470,21871,Sale of Taxes;,Oxyrhynchos;,66 CE - 70 CE;," grc, grc;",None;,"Img (ext.), Print;",no,has marked tremas,,33
+689,http://www.papyri.info/ddbdp/p.oxy;12;1481,p.oxy 12 1481,28993,Letter to a Tax - Farmer of the xenike praktoria;,Oxyrhynchos;,206 CE - 212 CE;," grc, grc;",None;,"Img, Img (ext.), Print;",no,no editorial tremas,,6
+158,http://www.papyri.info/ddbdp/p.oxy;12;1482,p.oxy 12 1482,28994,Order for Payment of Wheat;,Oxyrhynchos;,179 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,53
+580,http://www.papyri.info/ddbdp/p.oxy;12;1483,p.oxy 12 1483,28995,Land Distribution;,Oxyrhynchos;,95 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,34
+581,http://www.papyri.info/ddbdp/p.oxy;12;1488,p.oxy 12 1488,28998,Land Distribution;,Oxyrhynchos;,100 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,35
+690,http://www.papyri.info/ddbdp/p.oxy;12;1489,p.oxy 12 1489,31746,Invitation to the Kline of Sarapis;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,"Img, Img (ext.), Print;",no,no editorial tremas,,7
+710,http://www.papyri.info/ddbdp/p.oxy;12;1490,p.oxy 12 1490,31747,"Eingabe, betreffend ein vor dem Archidikastes anhängiges Verfahren;",Oxyrhynchos;,266 CE;," grc, grc;",None;,"Img (ext.), Print;",no,has marked tremas,,0
+691,http://www.papyri.info/ddbdp/p.oxy;12;1491,p.oxy 12 1491,33648,Invitation to the Kline of Sarapis;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,"Img, Img (ext.), Print;",no,has marked tremas,,8
+692,http://www.papyri.info/ddbdp/p.oxy;12;1492,p.oxy 12 1492,31748,Letter of Fishermen to a Strategus;,Oxyrhynchos;,128 CE - 131 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,9
+693,http://www.papyri.info/ddbdp/p.oxy;12;1493,p.oxy 12 1493,31749,Plainte au sujet d’une ruade;,Oxyrhynchos;,59 CE;," grc, grc;",None;,None;,no,has marked tremas,,10
+582,http://www.papyri.info/ddbdp/p.oxy;12;1494,p.oxy 12 1494,33649,Land Distribution;,Oxyrhynchos;,83 CE - 88 CE;," grc, grc;",None;,None;,no,has marked tremas,,36
+159,http://www.papyri.info/ddbdp/p.oxy;12;1511,p.oxy 12 1511,21887,Revocation of a Will;,Oxyrhynchos;,123 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,54
+583,http://www.papyri.info/ddbdp/p.oxy;12;1514,p.oxy 12 1514,21888,Emancipation of a Slave;,Oxyrhynchos;,86 CE;," grc, grc;",None;,None;,no,no editorial tremas,,37
+160,http://www.papyri.info/ddbdp/p.oxy;12;1570,p.oxy 12 1570,21933,Letter;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,55
+161,http://www.papyri.info/ddbdp/p.oxy;12;1574,p.oxy 12 1574,21937,Letter Concerning Property in Pawn;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,Print;,no,no editorial tremas,,56
+162,http://www.papyri.info/ddbdp/p.oxy;12;1576,p.oxy 12 1576,31763,Letter of Consolation;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,57
+584,http://www.papyri.info/ddbdp/p.oxy;12;1581,p.oxy 12 1581,29006,Emancipation of a Slave;,Oxyrhynchos;,100 CE;," grc, grc;",None;,None;,no,no editorial tremas,,38
+585,http://www.papyri.info/ddbdp/p.oxy;12;1582,p.oxy 12 1582,29007,Report of a Public Physician;,Oxyrhynchos;,173 CE;," grc, grc;",None;,Print;,no,no editorial tremas,,39
+586,http://www.papyri.info/ddbdp/p.oxy;12;1583,p.oxy 12 1583,29008,Repair of Public Buildings;,Oxyrhynchos;,201 CE;," grc, grc;",None;,None;,no,has marked tremas,,40
+763,http://www.papyri.info/ddbdp/p.oxy;12;1584,p.oxy 12 1584,29009,"Eingabe, betreffend ein vor dem Archidikastes anhängiges Verfahren;",Oxyrhynchos;,266 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,0
+587,http://www.papyri.info/ddbdp/p.oxy;12;1585,p.oxy 12 1585,29010,Embellishment of a New Street;,Oxyrhynchos;,283 CE;," grc, grc;",None;,None;,no,has marked tremas,,41
+588,http://www.papyri.info/ddbdp/p.oxy;12;1586,p.oxy 12 1586,31768,Appointment of a Guardian;,Oxyrhynchos;,203 CE;," grc, grc;",None;,Print;,no,has marked tremas,,42
+589,http://www.papyri.info/ddbdp/p.oxy;12;1587,p.oxy 12 1587,31769,Peculation by a Treasury Official;,Oxyrhynchos;,195 CE - 196 CE;," grc, grc;",None;,None;,no,has marked tremas,,43
+590,http://www.papyri.info/ddbdp/p.oxy;12;1588,p.oxy 12 1588,31770,Appointment of Treasury Officials;,Oxyrhynchos;,288 CE;," grc, grc;",None;,None;,no,no editorial tremas,,44
+591,http://www.papyri.info/ddbdp/p.oxy;12;1592,p.oxy 12 1592,31771,Appointment of a Delegate;,Oxyrhynchos;,292 CE;," grc, grc;",None;,None;,no,has marked tremas,,45
+163,http://www.papyri.info/ddbdp/p.oxy;14;1642,p.oxy 14 1642,21952,Letter;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,None;,no,has marked tremas,,58
+164,http://www.papyri.info/ddbdp/p.oxy;14;1649,p.oxy 14 1649,21957,Letter;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,None;,no,has marked tremas,,59
+165,http://www.papyri.info/ddbdp/p.oxy;14;1657,p.oxy 14 1657,31775,Letter;,Oxyrhynchos;,276 CE - 300 CE;," grc, grc;",None;,None;,no,no editorial tremas,,60
+166,http://www.papyri.info/ddbdp/p.oxy;14;1661,p.oxy 14 1661,21962,A Boy’s Letter;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,Print;,no,no editorial tremas,,61
+167,http://www.papyri.info/ddbdp/p.oxy;14;1662,p.oxy 14 1662,21963,Two Letters;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,None;,no,has marked tremas,,62
+168,http://www.papyri.info/ddbdp/p.oxy;14;1663,p.oxy 14 1663,29013,Letter;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,None;,no,has marked tremas,,63
+169,http://www.papyri.info/ddbdp/p.oxy;14;1664,p.oxy 14 1664,21964,Petition of Dionysia to the Praefect;,Oxyrhynchos;,186 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,64
+170,http://www.papyri.info/ddbdp/p.oxy;14;1665,p.oxy 14 1665,31776,Registration of a Sale;,Oxyrhynchos;,77 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,65
+171,http://www.papyri.info/ddbdp/p.oxy;14;1666,p.oxy 14 1666,31777,Registration of a Mortgage;,Oxyrhynchos;,79 CE;," grc, grc;",None;,None;,no,has marked tremas,,66
+172,http://www.papyri.info/ddbdp/p.oxy;14;1667,p.oxy 14 1667,31778,Loan of Money;,Oxyrhynchos;,57 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,67
+173,http://www.papyri.info/ddbdp/p.oxy;14;1668,p.oxy 14 1668,31779,Extortion by a Tax - Collector;,Oxyrhynchos;,50 CE;," grc, grc;",None;,"Img (ext.), Print;",no,has marked tremas,,68
+174,http://www.papyri.info/ddbdp/p.oxy;14;1669,p.oxy 14 1669,31780,Extortion by a Tax - Collector;,Oxyrhynchos;,50 CE;," grc, grc;",None;,Print;,no,has marked tremas,,69
+175,http://www.papyri.info/ddbdp/p.oxy;14;1670,p.oxy 14 1670,31781,Letter Concerning a Property Return;,Oxyrhynchos;,54 CE;," grc, grc;",None;,"Img, Img (ext.);",no,no editorial tremas,,70
+176,http://www.papyri.info/ddbdp/p.oxy;14;1671,p.oxy 14 1671,31782,Letter Concerning a Mouse - Catcher;,Oxyrhynchos;,76 CE - 100 CE;," grc, grc;",None;,None;,no,has marked tremas,,71
+177,http://www.papyri.info/ddbdp/p.oxy;14;1673,p.oxy 14 1673,29014,Letter to a Relative;,Oxyrhynchos;,76 CE - 100 CE;," grc, grc;",None;,None;,no,has marked tremas,,72
+178,http://www.papyri.info/ddbdp/p.oxy;14;1674,p.oxy 14 1674,31783,keiner;,Oxyrhynchos;,76 CE - 100 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,73
+179,http://www.papyri.info/ddbdp/p.oxy;14;1675,p.oxy 14 1675,31784,keiner;,Oxyrhynchos;,77 CE - 83 CE;," grc, grc;",None;,"Img, Img (ext.);",no,has marked tremas,,74
+180,http://www.papyri.info/ddbdp/p.oxy;14;1676,p.oxy 14 1676,21966,Order to the Agoranomos to Register the Sale of a Slave;,Oxyrhynchos;,89 CE;," grc, grc;",None;,"Img (ext.), Print;",no,has marked tremas,,75
+181,http://www.papyri.info/ddbdp/p.oxy;14;1677,p.oxy 14 1677,31785,keiner;,Oxyrhynchos;,89 CE;," grc, grc;",None;,"Img, Img (ext.);",no,has marked tremas,,76
+182,http://www.papyri.info/ddbdp/p.oxy;14;1678,p.oxy 14 1678,31786,keiner;,Oxyrhynchos;,81 CE - 83 CE;," grc, grc;",None;,Print;,no,no editorial tremas,,77
+183,http://www.papyri.info/ddbdp/p.oxy;14;1679,p.oxy 14 1679,31787,keiner;,Oxyrhynchos;,99 CE - 100 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,78
+184,http://www.papyri.info/ddbdp/p.oxy;14;1680,p.oxy 14 1680,31788,keiner;,Oxyrhynchos;,100 CE;," grc, grc;",None;,Print;,no,has marked tremas,,79
+185,http://www.papyri.info/ddbdp/p.oxy;14;1681,p.oxy 14 1681,31789,keiner;,Oxyrhynchos;,100 CE;," grc, grc;",None;,"Img (ext.), Print;",no,has marked tremas,,80
+186,http://www.papyri.info/ddbdp/p.oxy;14;1755,p.oxy 14 1755,29020,keiner;,Oxyrhynchos;,95 CE - 100 CE;," grc, grc;",None;,None;,no,no editorial tremas,,81
+187,http://www.papyri.info/ddbdp/p.oxy;14;1757,p.oxy 14 1757,22005,keiner;,Oxyrhynchos;,76 CE - 100 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,82
+188,http://www.papyri.info/ddbdp/p.oxy;14;1758,p.oxy 14 1758,29021,keiner;,Oxyrhynchos;,76 CE - 100 CE;," grc, grc;",None;,None;,no,has marked tremas,,83
+189,http://www.papyri.info/ddbdp/p.oxy;14;1759,p.oxy 14 1759,29022,keiner;,Oxyrhynchos;,76 CE - 100 CE;," grc, grc;",None;,None;,no,no editorial tremas,,84
+190,http://www.papyri.info/ddbdp/p.oxy;14;1760,p.oxy 14 1760,29023,Circular to Officials;,Oxyrhynchos;,184 CE - 216 CE;," grc, grc;",None;,None;,no,has marked tremas,,85
+191,http://www.papyri.info/ddbdp/p.oxy;14;1761,p.oxy 14 1761,29024,Application for Leave to Mortgage;,Oxyrhynchos;,108 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,86
+192,http://www.papyri.info/ddbdp/p.oxy;14;1762,p.oxy 14 1762,29025,Notification to the Strategus;,Oxyrhynchos;,178 CE;," grc, grc;",None;,None;,no,no editorial tremas,,87
+193,http://www.papyri.info/ddbdp/p.oxy;14;1763,p.oxy 14 1763,22006,Petition to the Epistrategus;,Oxyrhynchos;,156 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,88
+194,http://www.papyri.info/ddbdp/p.oxy;14;1764,p.oxy 14 1764,31806,Order for Payment in Kind;,Oxyrhynchos;,160 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,89
+195,http://www.papyri.info/ddbdp/p.oxy;14;1765,p.oxy 14 1765,31807,Invitation to Dinner;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,90
+196,http://www.papyri.info/ddbdp/p.oxy;14;1766,p.oxy 14 1766,31808,Letter of Cyrillus;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,91
+197,http://www.papyri.info/ddbdp/p.oxy;14;1767,p.oxy 14 1767,31809,Letter of Hatres;,Oxyrhynchos;,101 CE - 225 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,92
+198,http://www.papyri.info/ddbdp/p.oxy;14;1769,p.oxy 14 1769,31811,Letter of Serenus;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,None;,no,has marked tremas,,93
+199,http://www.papyri.info/ddbdp/p.oxy;14;1770,p.oxy 14 1770,31812,Letter to Athenarus;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,94
+200,http://www.papyri.info/ddbdp/p.oxy;14;1771,p.oxy 14 1771,31813,Letter of Dionysius;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,None;,no,no editorial tremas,,95
+201,http://www.papyri.info/ddbdp/p.oxy;14;1772,p.oxy 14 1772,31814,Letter of Cornelius;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,96
+202,http://www.papyri.info/ddbdp/p.oxy;14;1774,p.oxy 14 1774,33676,Letter of Heraclides;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,97
+592,http://www.papyri.info/ddbdp/p.oxy;17;2113,p.oxy 17 2113,17496,Commissariat;,Oxyrhynchos;,323 CE;," grc, grc;",None;,None;,no,no editorial tremas,,46
+593,http://www.papyri.info/ddbdp/p.oxy;17;2114,p.oxy 17 2114,17497,Payment of a Fine;,Oxyrhynchos;,221 CE;," grc, grc;",None;,None;,no,has marked tremas,,47
+594,http://www.papyri.info/ddbdp/p.oxy;17;2115,p.oxy 17 2115,17498,Letter of a Centurion;,Oxyrhynchos;,222 CE;," grc, grc;",None;,None;,no,no editorial tremas,,48
+716,http://www.papyri.info/ddbdp/p.oxy;17;2116,p.oxy 17 2116,17499,Official Confirmation of the Return of a Will;,Oxyrhynchos;,116 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,5
+203,http://www.papyri.info/ddbdp/p.oxy;17;2131dupl,p.oxy 17 2131dupl,17511,Letter of Apion;,Oxyrhynchos;,176 CE - 225 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,98
+595,http://www.papyri.info/ddbdp/p.oxy;17;2133,p.oxy 17 2133,17513,Letter of a Centurion;,Oxyrhynchos;,242 CE - 246 CE;," grc, grc;",None;,None;,no,has marked tremas,,49
+596,http://www.papyri.info/ddbdp/p.oxy;17;2140,p.oxy 17 2140,30669,Lading and Inspection of Corn;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,50
+204,http://www.papyri.info/ddbdp/p.oxy;18;2183,p.oxy 18 2183,22162,keiner;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,None;,no,no editorial tremas,,99
+205,http://www.papyri.info/ddbdp/p.oxy;18;2184,p.oxy 18 2184,45339,keiner;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,100
+206,http://www.papyri.info/ddbdp/p.oxy;18;2187,p.oxy 18 2187,22166,keiner;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,"Img, Img (ext.);",no,has marked tremas,,101
+207,http://www.papyri.info/ddbdp/p.oxy;18;2192,p.oxy 18 2192,29029,keiner;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,102
+208,http://www.papyri.info/ddbdp/p.oxy;18;2198,p.oxy 18 2198,29030,Petition to the Epistrategus;,Oxyrhynchos;,179 CE - 181 CE;," grc, grc;",None;,"Img, Img (ext.);",no,no editorial tremas,,103
+209,http://www.papyri.info/ddbdp/p.oxy;18;2200,p.oxy 18 2200,29031,keiner;,Oxyrhynchos;,193 CE - 194 CE;," grc, grc;",None;,None;,no,no editorial tremas,,104
+210,http://www.papyri.info/ddbdp/p.oxy;19;2228,p.oxy 19 2228,22177,Letter to a Strategus;,Oxyrhynchos;,234 CE - 238 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,105
+597,http://www.papyri.info/ddbdp/p.oxy;19;2235,p.oxy 19 2235,22185,Dispute Concerning Property;,Oxyrhynchos;,338 CE;," grc, grc;",None;,None;,no,has marked tremas,,51
+65,http://www.papyri.info/ddbdp/p.oxy;2;237,p.oxy 2 237,20506,Petition of Dionysia to the Praefect;,Oxyrhynchos;,186 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,64
+66,http://www.papyri.info/ddbdp/p.oxy;2;242,p.oxy 2 242,20511,Registration of a Sale;,Oxyrhynchos;,77 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,65
+67,http://www.papyri.info/ddbdp/p.oxy;2;243,p.oxy 2 243,20512,Registration of a Mortgage;,Oxyrhynchos;,79 CE;," grc, grc;",None;,None;,no,no editorial tremas,,66
+68,http://www.papyri.info/ddbdp/p.oxy;2;269,p.oxy 2 269,20540,Loan of Money;,Oxyrhynchos;,57 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,67
+69,http://www.papyri.info/ddbdp/p.oxy;2;284,p.oxy 2 284,20555,Extortion by a Tax - Collector;,Oxyrhynchos;,50 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,68
+70,http://www.papyri.info/ddbdp/p.oxy;2;285,p.oxy 2 285,20556,Extortion by a Tax - Collector;,Oxyrhynchos;,50 CE;," grc, grc;",None;,Print;,no,no editorial tremas,,69
+71,http://www.papyri.info/ddbdp/p.oxy;2;297,p.oxy 2 297,20570,Letter Concerning a Property Return;,Oxyrhynchos;,54 CE;," grc, grc;",None;,"Img, Img (ext.);",no,no editorial tremas,,70
+72,http://www.papyri.info/ddbdp/p.oxy;2;299,p.oxy 2 299,25672,Letter Concerning a Mouse - Catcher;,Oxyrhynchos;,76 CE - 100 CE;," grc, grc;",None;,None;,no,no editorial tremas,,71
+73,http://www.papyri.info/ddbdp/p.oxy;2;300,p.oxy 2 300,25673,Letter to a Relative;,Oxyrhynchos;,76 CE - 100 CE;," grc, grc;",None;,None;,no,no editorial tremas,,72
+74,http://www.papyri.info/ddbdp/p.oxy;2;327,p.oxy 2 327,25674,keiner;,Oxyrhynchos;,76 CE - 100 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,73
+75,http://www.papyri.info/ddbdp/p.oxy;2;330,p.oxy 2 330,20574,keiner;,Oxyrhynchos;,77 CE - 83 CE;," grc, grc;",None;,"Img, Img (ext.);",no,no editorial tremas,,74
+76,http://www.papyri.info/ddbdp/p.oxy;2;332,p.oxy 2 332,20575,Order to the Agoranomos to Register the Sale of a Slave;,Oxyrhynchos;,89 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,75
+77,http://www.papyri.info/ddbdp/p.oxy;2;333,p.oxy 2 333,20576,keiner;,Oxyrhynchos;,89 CE;," grc, grc;",None;,"Img, Img (ext.);",no,no editorial tremas,,76
+78,http://www.papyri.info/ddbdp/p.oxy;2;334,p.oxy 2 334,20577,keiner;,Oxyrhynchos;,81 CE - 83 CE;," grc, grc;",None;,Print;,no,no editorial tremas,,77
+79,http://www.papyri.info/ddbdp/p.oxy;2;338,p.oxy 2 338,20580,keiner;,Oxyrhynchos;,99 CE - 100 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,78
+80,http://www.papyri.info/ddbdp/p.oxy;2;342,p.oxy 2 342,20583,keiner;,Oxyrhynchos;,100 CE;," grc, grc;",None;,Print;,no,no editorial tremas,,79
+81,http://www.papyri.info/ddbdp/p.oxy;2;346,p.oxy 2 346,20585,keiner;,Oxyrhynchos;,100 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,80
+82,http://www.papyri.info/ddbdp/p.oxy;2;347,p.oxy 2 347,20586,keiner;,Oxyrhynchos;,95 CE - 100 CE;," grc, grc;",None;,None;,no,no editorial tremas,,81
+83,http://www.papyri.info/ddbdp/p.oxy;2;348,p.oxy 2 348,25677,keiner;,Oxyrhynchos;,76 CE - 100 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,82
+84,http://www.papyri.info/ddbdp/p.oxy;2;396,p.oxy 2 396,25686,keiner;,Oxyrhynchos;,76 CE - 100 CE;," grc, grc;",None;,None;,no,no editorial tremas,,83
+85,http://www.papyri.info/ddbdp/p.oxy;2;400,p.oxy 2 400,25689,keiner;,Oxyrhynchos;,76 CE - 100 CE;," grc, grc;",None;,None;,no,no editorial tremas,,84
+211,http://www.papyri.info/ddbdp/p.oxy;20;2271,p.oxy 20 2271,30486,Apportionment of Duties to an Exegetes;,Oxyrhynchos;,294 CE;," grc, grc;",None;,None;,no,no editorial tremas,,106
+212,http://www.papyri.info/ddbdp/p.oxy;20;2274,p.oxy 20 2274,30488,Invitation to Dinner;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,None;,no,has marked tremas,,107
+213,http://www.papyri.info/ddbdp/p.oxy;20;2278,p.oxy 20 2278,30490,Invitation to a Wedding;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,108
+214,http://www.papyri.info/ddbdp/p.oxy;22;2342,p.oxy 22 2342,22214,Letter of Lucius;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,109
+717,http://www.papyri.info/ddbdp/p.oxy;24;2410,p.oxy 24 2410,16926,Letter to a Tax - Farmer of the xenike praktoria;,Oxyrhynchos;,206 CE - 212 CE;," grc, grc;",None;,"Img, Img (ext.), Print;",no,no editorial tremas,,6
+215,http://www.papyri.info/ddbdp/p.oxy;24;2411,p.oxy 24 2411,16927,Letter to Ptolemaeus from his Mother;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,110
+216,http://www.papyri.info/ddbdp/p.oxy;27;2477,p.oxy 27 2477,17011,Letter of Theopompus to a Strategus;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,None;,no,has marked tremas,,111
+86,http://www.papyri.info/ddbdp/p.oxy;3;474,p.oxy 3 474,20609,Circular to Officials;,Oxyrhynchos;,184 CE - 216 CE;," grc, grc;",None;,None;,no,no editorial tremas,,85
+87,http://www.papyri.info/ddbdp/p.oxy;3;483,p.oxy 3 483,20619,Application for Leave to Mortgage;,Oxyrhynchos;,108 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,86
+88,http://www.papyri.info/ddbdp/p.oxy;3;485,p.oxy 3 485,20621,Notification to the Strategus;,Oxyrhynchos;,178 CE;," grc, grc;",None;,None;,no,has marked tremas,,87
+89,http://www.papyri.info/ddbdp/p.oxy;3;487,p.oxy 3 487,20623,Petition to the Epistrategus;,Oxyrhynchos;,156 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,88
+90,http://www.papyri.info/ddbdp/p.oxy;3;516,p.oxy 3 516,20647,Order for Payment in Kind;,Oxyrhynchos;,160 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,89
+91,http://www.papyri.info/ddbdp/p.oxy;3;523,p.oxy 3 523,28363,Invitation to Dinner;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,90
+92,http://www.papyri.info/ddbdp/p.oxy;3;526,p.oxy 3 526,28366,Letter of Cyrillus;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,91
+93,http://www.papyri.info/ddbdp/p.oxy;3;527,p.oxy 3 527,28367,Letter of Hatres;,Oxyrhynchos;,101 CE - 225 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,92
+94,http://www.papyri.info/ddbdp/p.oxy;3;528,p.oxy 3 528,28368,Letter of Serenus;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,None;,no,no editorial tremas,,93
+95,http://www.papyri.info/ddbdp/p.oxy;3;529,p.oxy 3 529,28369,Letter to Athenarus;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,94
+96,http://www.papyri.info/ddbdp/p.oxy;3;530,p.oxy 3 530,28370,Letter of Dionysius;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,None;,no,has marked tremas,,95
+97,http://www.papyri.info/ddbdp/p.oxy;3;531,p.oxy 3 531,28371,Letter of Cornelius;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,96
+98,http://www.papyri.info/ddbdp/p.oxy;3;532,p.oxy 3 532,28372,Letter of Heraclides;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,97
+99,http://www.papyri.info/ddbdp/p.oxy;3;533,p.oxy 3 533,28373,Letter of Apion;,Oxyrhynchos;,176 CE - 225 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,98
+100,http://www.papyri.info/ddbdp/p.oxy;3;582,p.oxy 3 582,28379,keiner;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,None;,no,no editorial tremas,,99
+753,http://www.papyri.info/ddbdp/p.oxy;3;587,p.oxy 3 587,28381,"Eingabe, betreffend ein vor dem Archidikastes anhängiges Verfahren;",Oxyrhynchos;,266 CE;," grc, grc;",None;,"Img (ext.), Print;",head,no editorial tremas,,0
+780,http://www.papyri.info/ddbdp/p.oxy;3;587,p.oxy 3 587,28382,"Eingabe, betreffend ein vor dem Archidikastes anhängiges Verfahren;",Oxyrhynchos;,266 CE;," grc, grc;",None;,"Img (ext.), Print;",28381,no editorial tremas,,9
+781,http://www.papyri.info/ddbdp/p.oxy;3;587,p.oxy 3 587,28383,"Eingabe, betreffend ein vor dem Archidikastes anhängiges Verfahren;",Oxyrhynchos;,266 CE;," grc, grc;",None;,"Img (ext.), Print;",28381,no editorial tremas,,10
+101,http://www.papyri.info/ddbdp/p.oxy;3;589,p.oxy 3 589,28384,keiner;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,100
+102,http://www.papyri.info/ddbdp/p.oxy;3;642,p.oxy 3 642,28393,keiner;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,"Img, Img (ext.);",no,no editorial tremas,,101
+103,http://www.papyri.info/ddbdp/p.oxy;3;644,p.oxy 3 644,28395,keiner;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,102
+694,http://www.papyri.info/ddbdp/p.oxy;31;2559,p.oxy 31 2559,26931,Official correspondence;,Oxyrhynchos;,297 CE - 298 CE;," grc, grc;",None;,None;,no,has marked tremas,,11
+217,http://www.papyri.info/ddbdp/p.oxy;31;2563,p.oxy 31 2563,16886,Letter of Thais;,Oxyrhynchos;,176 CE - 200 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,112
+218,http://www.papyri.info/ddbdp/p.oxy;31;2567,p.oxy 31 2567,16891,Letter of Diogenes;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,None;,no,has marked tremas,,113
+219,http://www.papyri.info/ddbdp/p.oxy;31;2569,p.oxy 31 2569,16893,Letter of Aurelius Stephanus;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,114
+220,http://www.papyri.info/ddbdp/p.oxy;31;2590,p.oxy 31 2590,16904,Letter of Serenus;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,None;,no,no editorial tremas,,115
+695,http://www.papyri.info/ddbdp/p.oxy;31;2593,p.oxy 31 2593,26937,Miscellaneous papyri;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,None;,no,no editorial tremas,,12
+221,http://www.papyri.info/ddbdp/p.oxy;31;2594,p.oxy 31 2594,26938,Letter of Pausanias;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,None;,no,no editorial tremas,,116
+598,http://www.papyri.info/ddbdp/p.oxy;31;2595,p.oxy 31 2595,30434,Complaint of a Pilot;,Oxyrhynchos;,338 CE;," grc, grc;",None;,None;,no,no editorial tremas,,52
+599,http://www.papyri.info/ddbdp/p.oxy;31;2596,p.oxy 31 2596,30435,Order for Payment of Wheat;,Oxyrhynchos;,179 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,53
+600,http://www.papyri.info/ddbdp/p.oxy;31;2602,p.oxy 31 2602,32693,Revocation of a Will;,Oxyrhynchos;,123 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,54
+718,http://www.papyri.info/ddbdp/p.oxy;31;2616,p.oxy 31 2616,30444,Invitation to the Kline of Sarapis;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,"Img, Img (ext.), Print;",no,no editorial tremas,,7
+222,http://www.papyri.info/ddbdp/p.oxy;33;2665,p.oxy 33 2665,16870,Letter of Demarchus;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,None;,no,has marked tremas,,117
+223,http://www.papyri.info/ddbdp/p.oxy;33;2666,p.oxy 33 2666,16871,Private Correspondence;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,Print;,no,has marked tremas,,118
+224,http://www.papyri.info/ddbdp/p.oxy;33;2667,p.oxy 33 2667,16872,Private Correspondence;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,None;,no,no editorial tremas,,119
+601,http://www.papyri.info/ddbdp/p.oxy;33;2668,p.oxy 33 2668,16873,Letter;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,55
+696,http://www.papyri.info/ddbdp/p.oxy;33;2679,p.oxy 33 2679,26929,Inizio di documento ufficiale;,Oxyrhynchos;,72 CE - 73 CE;," grc, grc;",None;,Print;,no,no editorial tremas,,13
+697,http://www.papyri.info/ddbdp/p.oxy;33;2680,p.oxy 33 2680,26930,Petition an den Präfekten von Ägypten Flavius Philagrius;,Oxyrhynchos;,334 CE - 340 CE;," grc, grc;",None;,"Img (ext.), Print;",no,has marked tremas,,14
+698,http://www.papyri.info/ddbdp/p.oxy;33;2681,p.oxy 33 2681,16882,Rechtfertigung eines Dammaufsehers gegenüber dem Idioslogos;,Oxyrhynchos;,148 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,15
+225,http://www.papyri.info/ddbdp/p.oxy;34;2705,p.oxy 34 2705,16579,Petition to the Epistrategus;,Oxyrhynchos;,162 CE;," grc, grc;",None;,None;,no,no editorial tremas,,120
+226,http://www.papyri.info/ddbdp/p.oxy;34;2713,p.oxy 34 2713,16586,Order for Delivery of Wine;,Oxyrhynchos;,231 CE - 263 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,121
+227,http://www.papyri.info/ddbdp/p.oxy;34;2714,p.oxy 34 2714,16587,Order for Delivery of Wine;,Oxyrhynchos;,235 CE - 267 CE;," grc, grc;",None;,None;,no,has marked tremas,,122
+228,http://www.papyri.info/ddbdp/p.oxy;34;2719,p.oxy 34 2719,30394,Letter of Marcus;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,None;,no,no editorial tremas,,123
+229,http://www.papyri.info/ddbdp/p.oxy;34;2725,p.oxy 34 2725,16596,Letter to Amois;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,None;,no,no editorial tremas,,124
+230,http://www.papyri.info/ddbdp/p.oxy;34;2726,p.oxy 34 2726,26874,Letter to Didymas;,Oxyrhynchos;,218 CE - 219 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,125
+231,http://www.papyri.info/ddbdp/p.oxy;34;2728,p.oxy 34 2728,16597,Letter of Hephaestion;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,"Img, Img (ext.);",no,no editorial tremas,,126
+232,http://www.papyri.info/ddbdp/p.oxy;34;2730,p.oxy 34 2730,30397,Letter of Nemesianus;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,None;,no,has marked tremas,,127
+233,http://www.papyri.info/ddbdp/p.oxy;36;2781,p.oxy 36 2781,26870,Letter of Helene;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,Print;,no,has marked tremas,,128
+234,http://www.papyri.info/ddbdp/p.oxy;36;2782,p.oxy 36 2782,16570,Letter of Satornilus;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,"Img, Img (ext.);",no,has marked tremas,,129
+235,http://www.papyri.info/ddbdp/p.oxy;36;2783,p.oxy 36 2783,30385,Letter of Troilus;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,None;,no,no editorial tremas,,130
+236,http://www.papyri.info/ddbdp/p.oxy;36;2784,p.oxy 36 2784,30386,Edict of a Praefect;,Oxyrhynchos;,206 CE;," grc, grc;",None;,Print;,no,has marked tremas,,131
+237,http://www.papyri.info/ddbdp/p.oxy;36;2785,p.oxy 36 2785,32644,Application for Payment;,Oxyrhynchos;,306 CE;," grc, grc;",None;,None;,no,has marked tremas,,132
+238,http://www.papyri.info/ddbdp/p.oxy;36;2787,p.oxy 36 2787,26871,Notice to the Agoranomus;,Oxyrhynchos;,81 CE - 96 CE;," grc, grc;",None;,None;,no,no editorial tremas,,133
+239,http://www.papyri.info/ddbdp/p.oxy;36;2788,p.oxy 36 2788,30387,"Petition to a Strategus, etc.;",Oxyrhynchos;,253 CE;," grc, grc;",None;,None;,no,no editorial tremas,,134
+240,http://www.papyri.info/ddbdp/p.oxy;36;2789,p.oxy 36 2789,30388,Order for Vegetable - seed;,Oxyrhynchos;,293 CE;," grc, grc;",None;,None;,no,has marked tremas,,135
+241,http://www.papyri.info/ddbdp/p.oxy;38;2838,p.oxy 38 2838,22227,Order for Purchases;,Oxyrhynchos;,276 CE - 300 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,136
+242,http://www.papyri.info/ddbdp/p.oxy;38;2844,p.oxy 38 2844,25939,Letter of Theon;,Oxyrhynchos;,76 CE - 100 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,137
+602,http://www.papyri.info/ddbdp/p.oxy;38;2851,p.oxy 38 2851,22238,Letter Concerning Property in Pawn;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,Print;,no,no editorial tremas,,56
+243,http://www.papyri.info/ddbdp/p.oxy;38;2856,p.oxy 38 2856,22243,Letter of Anubion;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,None;,no,no editorial tremas,,138
+603,http://www.papyri.info/ddbdp/p.oxy;38;2860,p.oxy 38 2860,29034,Letter of Consolation;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,"Img (ext.), Print;",no,has marked tremas,,57
+604,http://www.papyri.info/ddbdp/p.oxy;38;2861,p.oxy 38 2861,29035,Letter;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,None;,no,no editorial tremas,,58
+605,http://www.papyri.info/ddbdp/p.oxy;38;2862,p.oxy 38 2862,31832,Letter;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,None;,no,has marked tremas,,59
+606,http://www.papyri.info/ddbdp/p.oxy;38;2863,p.oxy 38 2863,22247,Letter;,Oxyrhynchos;,276 CE - 300 CE;," grc, grc;",None;,None;,no,no editorial tremas,,60
+607,http://www.papyri.info/ddbdp/p.oxy;38;2865,p.oxy 38 2865,22249,A Boy’s Letter;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,Print;,no,no editorial tremas,,61
+608,http://www.papyri.info/ddbdp/p.oxy;38;2866,p.oxy 38 2866,22250,Two Letters;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,None;,no,no editorial tremas,,62
+609,http://www.papyri.info/ddbdp/p.oxy;38;2867,p.oxy 38 2867,22251,Letter;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,None;,no,no editorial tremas,,63
+610,http://www.papyri.info/ddbdp/p.oxy;38;2868,p.oxy 38 2868,22252,Petition of Dionysia to the Praefect;,Oxyrhynchos;,186 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,64
+611,http://www.papyri.info/ddbdp/p.oxy;38;2869,p.oxy 38 2869,22253,Registration of a Sale;,Oxyrhynchos;,77 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,65
+612,http://www.papyri.info/ddbdp/p.oxy;38;2870,p.oxy 38 2870,22254,Registration of a Mortgage;,Oxyrhynchos;,79 CE;," grc, grc;",None;,None;,no,no editorial tremas,,66
+613,http://www.papyri.info/ddbdp/p.oxy;38;2877,p.oxy 38 2877,31835,Loan of Money;,Oxyrhynchos;,57 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,67
+745,http://www.papyri.info/ddbdp/p.oxy;4;708,p.oxy 4 708,20408,Auskunftserteilung durch die βιβλιοφύλακες ἐγκτήσεων über das Vermögen eines Inquisiten;,Oxyrhynchos;,309 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,2
+104,http://www.papyri.info/ddbdp/p.oxy;4;718,p.oxy 4 718,20417,Petition to the Epistrategus;,Oxyrhynchos;,179 CE - 181 CE;," grc, grc;",None;,"Img, Img (ext.);",no,no editorial tremas,,103
+105,http://www.papyri.info/ddbdp/p.oxy;4;801,p.oxy 4 801,20456,"Eingabe, betreffend ein vor dem Archidikastes anhängiges Verfahren;",Oxyrhynchos;,266 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,0
+244,http://www.papyri.info/ddbdp/p.oxy;40;2898,p.oxy 40 2898,45211,"Eingabe, betreffend ein vor dem Archidikastes anhängiges Verfahren;",Oxyrhynchos;,266 CE;," grc, grc;",None;,"Img (ext.), Print;",no,has marked tremas,,0
+245,http://www.papyri.info/ddbdp/p.oxy;40;2902,p.oxy 40 2902,45215,Edict of a Praefect Concerning Archives;,Oxyrhynchos;,127 CE;," grc, grc;",None;,None;,no,no editorial tremas,,1
+246,http://www.papyri.info/ddbdp/p.oxy;40;2904,p.oxy 40 2904,45217,Auskunftserteilung durch die βιβλιοφύλακες ἐγκτήσεων über das Vermögen eines Inquisiten;,Oxyrhynchos;,309 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,2
+247,http://www.papyri.info/ddbdp/p.oxy;40;2906coli,p.oxy 40 2906coli,16617,Notice of the Deaths of Slaves;,Oxyrhynchos;,78 CE - 79 CE;," grc, grc;",None;,"Img (ext.), Print;",no,has marked tremas,,3
+773,http://papyri.info/ddbdp/p.oxy;40;2908,p.oxy 40 2908,16621,Declaration: application,Oxyrhynchos,270 CE - 271 CE,"grc, grc;",None;,http://163.1.169.40/cgi-bin/library?e=q-000-00---0POxy--00-0-0--0prompt-10---4----ded--0-1l--1-en-50---20-about-2908--00031-001-1-0utfZz-8-00&a=d&c=POxy&cl=search&d=HASH01917ed40ca9c892575f19b8,16622,has marked tremas,,2
+748,http://www.papyri.info/ddbdp/p.oxy;40;2908,p.oxy 40 2908,16622,Official Confirmation of the Return of a Will;,Oxyrhynchos;,116 CE;," grc, grc;",None;,"Img (ext.), Print;",head,has marked tremas,,5
+248,http://www.papyri.info/ddbdp/p.oxy;40;2909,p.oxy 40 2909,45222,Letter of Apion;,Oxyrhynchos;,196 CE - 198 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,4
+249,http://www.papyri.info/ddbdp/p.oxy;40;2915,p.oxy 40 2915,45228,Official Confirmation of the Return of a Will;,Oxyrhynchos;,116 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,5
+250,http://www.papyri.info/ddbdp/p.oxy;40;2916,p.oxy 40 2916,45229,Letter to a Tax - Farmer of the xenike praktoria;,Oxyrhynchos;,206 CE - 212 CE;," grc, grc;",None;,"Img, Img (ext.), Print;",no,no editorial tremas,,6
+251,http://www.papyri.info/ddbdp/p.oxy;40;2918,p.oxy 40 2918,45231,Invitation to the Kline of Sarapis;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,"Img, Img (ext.), Print;",no,no editorial tremas,,7
+252,http://www.papyri.info/ddbdp/p.oxy;40;2919,p.oxy 40 2919,45232,Invitation to the Kline of Sarapis;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,"Img, Img (ext.), Print;",no,no editorial tremas,,8
+253,http://www.papyri.info/ddbdp/p.oxy;40;2925,p.oxy 40 2925,16642,Letter of Fishermen to a Strategus;,Oxyrhynchos;,128 CE - 131 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,9
+254,http://www.papyri.info/ddbdp/p.oxy;40;2926,p.oxy 40 2926,24887,Plainte au sujet d’une ruade;,Oxyrhynchos;,59 CE;," grc, grc;",None;,None;,no,has marked tremas,,10
+255,http://www.papyri.info/ddbdp/p.oxy;41;2956,p.oxy 41 2956,16519,Official correspondence;,Oxyrhynchos;,297 CE - 298 CE;," grc, grc;",None;,None;,no,has marked tremas,,11
+256,http://www.papyri.info/ddbdp/p.oxy;41;2958,p.oxy 41 2958,16522,Miscellaneous papyri;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,None;,no,no editorial tremas,,12
+257,http://www.papyri.info/ddbdp/p.oxy;41;2959,p.oxy 41 2959,16523,Inizio di documento ufficiale;,Oxyrhynchos;,72 CE - 73 CE;," grc, grc;",None;,Print;,no,no editorial tremas,,13
+258,http://www.papyri.info/ddbdp/p.oxy;41;2960,p.oxy 41 2960,16524,Petition an den Präfekten von Ägypten Flavius Philagrius;,Oxyrhynchos;,334 CE - 340 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,14
+259,http://www.papyri.info/ddbdp/p.oxy;41;2976,p.oxy 41 2976,26859,Rechtfertigung eines Dammaufsehers gegenüber dem Idioslogos;,Oxyrhynchos;,148 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,15
+260,http://www.papyri.info/ddbdp/p.oxy;41;2980,p.oxy 41 2980,26860,Anweisung an die Totengräber;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,16
+261,http://www.papyri.info/ddbdp/p.oxy;41;2981,p.oxy 41 2981,26861,Gestellungsbürgschaft;,Oxyrhynchos;,173 CE - 174 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,17
+262,http://www.papyri.info/ddbdp/p.oxy;41;2982,p.oxy 41 2982,26862,Copia (?) di un rapporto di episkepsis;,Oxyrhynchos;,159 CE;," grc, grc;",None;,"Img (ext.), Print;",no,has marked tremas,,18
+263,http://www.papyri.info/ddbdp/p.oxy;41;2983,p.oxy 41 2983,26863,Richiesta di pagamento da parte della corporazione τῶν χαλκέων;,Oxyrhynchos;,283 CE - 292 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,19
+264,http://www.papyri.info/ddbdp/p.oxy;41;2984,p.oxy 41 2984,26864,Letter of the Senate to the Strategus;,Oxyrhynchos;,310 CE - 311 CE;," grc, grc;",None;,Print;,no,no editorial tremas,,20
+265,http://www.papyri.info/ddbdp/p.oxy;41;2985,p.oxy 41 2985,26865,Registration of an Apprentice;,Oxyrhynchos;,58 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,21
+266,http://www.papyri.info/ddbdp/p.oxy;41;2986,p.oxy 41 2986,26866,Registration of an Apprentice;,Oxyrhynchos;,62 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,22
+267,http://www.papyri.info/ddbdp/p.oxy;41;2987,p.oxy 41 2987,16542,Official Letter;,Oxyrhynchos;,188 CE - 190 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,23
+268,http://www.papyri.info/ddbdp/p.oxy;41;2992,p.oxy 41 2992,30381,Entwurf zu einer Eingabe (Neuedition von P.Mich. XI 616);,Oxyrhynchos;,181 CE - 183 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,24
+269,http://www.papyri.info/ddbdp/p.oxy;41;2996,p.oxy 41 2996,26868,Fragment of official letter or petition;,Oxyrhynchos;,341 CE;," grc, grc;",None;,None;,no,has marked tremas,,25
+270,http://www.papyri.info/ddbdp/p.oxy;42;3018,p.oxy 42 3018,30329,Lettera di Theone ad Heraclide;,Oxyrhynchos;,101 CE - 150 CE;," grc, grc;",None;,Print;,no,has marked tremas,,26
+271,http://www.papyri.info/ddbdp/p.oxy;42;3024,p.oxy 42 3024,16423,Letter;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,27
+272,http://www.papyri.info/ddbdp/p.oxy;42;3025,p.oxy 42 3025,16424,Letter of Recommendation;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,28
+273,http://www.papyri.info/ddbdp/p.oxy;42;3027,p.oxy 42 3027,16426,Letter of the Strategus of Alexandria concerning Two Stolen Camels;,Oxyrhynchos;,138 CE - 161 CE;," grc, grc;",None;,None;,no,no editorial tremas,,29
+274,http://www.papyri.info/ddbdp/p.oxy;42;3028,p.oxy 42 3028,16427,Report of Public Physician;,Oxyrhynchos;,96 CE;," grc, grc;",None;,Print;,no,no editorial tremas,,30
+275,http://www.papyri.info/ddbdp/p.oxy;42;3029,p.oxy 42 3029,16428,Orders for Delivery of Wine;,Oxyrhynchos;,296 CE - 330 CE;," grc, grc;",None;,None;,no,no editorial tremas,,31
+276,http://www.papyri.info/ddbdp/p.oxy;42;3032,p.oxy 42 3032,16430,Letter to an ἀρχιπροφήτης;,Oxyrhynchos;,276 CE - 300 CE;," grc, grc;",None;,None;,no,no editorial tremas,,32
+277,http://www.papyri.info/ddbdp/p.oxy;42;3035,p.oxy 42 3035,16434,Sale of Taxes;,Oxyrhynchos;,66 CE - 70 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,33
+278,http://www.papyri.info/ddbdp/p.oxy;42;3050,p.oxy 42 3050,30330,Land Distribution;,Oxyrhynchos;,95 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,34
+279,http://www.papyri.info/ddbdp/p.oxy;42;3055,p.oxy 42 3055,16450,Land Distribution;,Oxyrhynchos;,100 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,35
+280,http://www.papyri.info/ddbdp/p.oxy;42;3056,p.oxy 42 3056,16451,Land Distribution;,Oxyrhynchos;,83 CE - 88 CE;," grc, grc;",None;,None;,no,no editorial tremas,,36
+281,http://www.papyri.info/ddbdp/p.oxy;42;3058,p.oxy 42 3058,26810,Emancipation of a Slave;,Oxyrhynchos;,86 CE;," grc, grc;",None;,None;,no,no editorial tremas,,37
+282,http://www.papyri.info/ddbdp/p.oxy;42;3059,p.oxy 42 3059,26811,Emancipation of a Slave;,Oxyrhynchos;,100 CE;," grc, grc;",None;,None;,no,no editorial tremas,,38
+283,http://www.papyri.info/ddbdp/p.oxy;42;3060,p.oxy 42 3060,26812,Report of a Public Physician;,Oxyrhynchos;,173 CE;," grc, grc;",None;,Print;,no,has marked tremas,,39
+284,http://www.papyri.info/ddbdp/p.oxy;42;3063,p.oxy 42 3063,26813,Repair of Public Buildings;,Oxyrhynchos;,201 CE;," grc, grc;",None;,None;,no,no editorial tremas,,40
+285,http://www.papyri.info/ddbdp/p.oxy;42;3064,p.oxy 42 3064,30331,Embellishment of a New Street;,Oxyrhynchos;,283 CE;," grc, grc;",None;,None;,no,has marked tremas,,41
+286,http://www.papyri.info/ddbdp/p.oxy;42;3065,p.oxy 42 3065,30332,Appointment of a Guardian;,Oxyrhynchos;,203 CE;," grc, grc;",None;,Print;,no,has marked tremas,,42
+287,http://www.papyri.info/ddbdp/p.oxy;42;3066,p.oxy 42 3066,30333,Peculation by a Treasury Official;,Oxyrhynchos;,195 CE - 196 CE;," grc, grc;",None;,None;,no,has marked tremas,,43
+288,http://www.papyri.info/ddbdp/p.oxy;42;3067,p.oxy 42 3067,30334,Appointment of Treasury Officials;,Oxyrhynchos;,288 CE;," grc, grc;",None;,None;,no,has marked tremas,,44
+289,http://www.papyri.info/ddbdp/p.oxy;42;3082,p.oxy 42 3082,30341,Appointment of a Delegate;,Oxyrhynchos;,292 CE;," grc, grc;",None;,None;,no,no editorial tremas,,45
+290,http://www.papyri.info/ddbdp/p.oxy;42;3083,p.oxy 42 3083,30342,Commissariat;,Oxyrhynchos;,323 CE;," grc, grc;",None;,None;,no,no editorial tremas,,46
+291,http://www.papyri.info/ddbdp/p.oxy;42;3084,p.oxy 42 3084,26816,Payment of a Fine;,Oxyrhynchos;,221 CE;," grc, grc;",None;,None;,no,no editorial tremas,,47
+292,http://www.papyri.info/ddbdp/p.oxy;42;3085,p.oxy 42 3085,30343,Letter of a Centurion;,Oxyrhynchos;,222 CE;," grc, grc;",None;,None;,no,has marked tremas,,48
+293,http://www.papyri.info/ddbdp/p.oxy;43;3088,p.oxy 43 3088,15968,Letter of a Centurion;,Oxyrhynchos;,242 CE - 246 CE;," grc, grc;",None;,None;,no,no editorial tremas,,49
+294,http://www.papyri.info/ddbdp/p.oxy;43;3093,p.oxy 43 3093,15972,Lading and Inspection of Corn;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,50
+295,http://www.papyri.info/ddbdp/p.oxy;43;3094,p.oxy 43 3094,15973,Dispute Concerning Property;,Oxyrhynchos;,338 CE;," grc, grc;",None;,None;,no,has marked tremas,,51
+296,http://www.papyri.info/ddbdp/p.oxy;43;3102,p.oxy 43 3102,15981,Complaint of a Pilot;,Oxyrhynchos;,338 CE;," grc, grc;",None;,None;,no,has marked tremas,,52
+297,http://www.papyri.info/ddbdp/p.oxy;43;3106,p.oxy 43 3106,65841,Order for Payment of Wheat;,Oxyrhynchos;,179 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,53
+298,http://www.papyri.info/ddbdp/p.oxy;43;3112,p.oxy 43 3112,15990,Revocation of a Will;,Oxyrhynchos;,123 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,54
+299,http://www.papyri.info/ddbdp/p.oxy;43;3118,p.oxy 43 3118,15997,Letter;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,55
+300,http://www.papyri.info/ddbdp/p.oxy;43;3119,p.oxy 43 3119,15998,Letter Concerning Property in Pawn;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,Print;,no,no editorial tremas,,56
+301,http://www.papyri.info/ddbdp/p.oxy;43;3125,p.oxy 43 3125,16004,Letter of Consolation;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,"Img (ext.), Print;",no,has marked tremas,,57
+302,http://www.papyri.info/ddbdp/p.oxy;43;3129,p.oxy 43 3129,16008,Letter;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,None;,no,no editorial tremas,,58
+303,http://www.papyri.info/ddbdp/p.oxy;43;3131,p.oxy 43 3131,16009,Letter;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,None;,no,no editorial tremas,,59
+304,http://www.papyri.info/ddbdp/p.oxy;43;3133,p.oxy 43 3133,16011,Letter;,Oxyrhynchos;,276 CE - 300 CE;," grc, grc;",None;,None;,no,no editorial tremas,,60
+305,http://www.papyri.info/ddbdp/p.oxy;44;3164,p.oxy 44 3164,15927,A Boy’s Letter;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,Print;,no,no editorial tremas,,61
+306,http://www.papyri.info/ddbdp/p.oxy;44;3173,p.oxy 44 3173,15937,Two Letters;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,None;,no,no editorial tremas,,62
+737,http://www.papyri.info/ddbdp/p.oxy;44;3174r,p.oxy 44 3174r,15938,"Eingabe, betreffend ein vor dem Archidikastes anhängiges Verfahren;",Oxyrhynchos;,266 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,0
+307,http://www.papyri.info/ddbdp/p.oxy;44;3174v,p.oxy 44 3174v,64189,Letter;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,None;,no,no editorial tremas,,63
+308,http://www.papyri.info/ddbdp/p.oxy;44;3175,p.oxy 44 3175,15939,Petition of Dionysia to the Praefect;,Oxyrhynchos;,186 CE;," grc, grc;",None;,"Img (ext.), Print;",no,has marked tremas,,64
+309,http://www.papyri.info/ddbdp/p.oxy;44;3176,p.oxy 44 3176,15940,Registration of a Sale;,Oxyrhynchos;,77 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,65
+310,http://www.papyri.info/ddbdp/p.oxy;44;3182,p.oxy 44 3182,15946,Registration of a Mortgage;,Oxyrhynchos;,79 CE;," grc, grc;",None;,None;,no,has marked tremas,,66
+779,http://www.papyri.info/ddbdp/p.oxy;44;3184,p.oxy 44 3184,15948,"Eingabe, betreffend ein vor dem Archidikastes anhängiges Verfahren;",Oxyrhynchos;,266 CE;," grc, grc;",None;,"Img (ext.), Print;",15949,has marked tremas,,8
+766,http://www.papyri.info/ddbdp/p.oxy;44;3184,p.oxy 44 3184,15949,"Eingabe, betreffend ein vor dem Archidikastes anhängiges Verfahren;",Oxyrhynchos;,266 CE;," grc, grc;",None;,"Img (ext.), Print;",head,has marked tremas,,0
+311,http://www.papyri.info/ddbdp/p.oxy;44;3185,p.oxy 44 3185,30213,Loan of Money;,Oxyrhynchos;,57 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,67
+312,http://www.papyri.info/ddbdp/p.oxy;44;3188,p.oxy 44 3188,15951,Extortion by a Tax - Collector;,Oxyrhynchos;,50 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,68
+313,http://www.papyri.info/ddbdp/p.oxy;44;3190,p.oxy 44 3190,30216,Extortion by a Tax - Collector;,Oxyrhynchos;,50 CE;," grc, grc;",None;,Print;,no,has marked tremas,,69
+314,http://www.papyri.info/ddbdp/p.oxy;44;3191,p.oxy 44 3191,15952,Letter Concerning a Property Return;,Oxyrhynchos;,54 CE;," grc, grc;",None;,"Img, Img (ext.);",no,has marked tremas,,70
+315,http://www.papyri.info/ddbdp/p.oxy;44;3193,p.oxy 44 3193,15954,Letter Concerning a Mouse - Catcher;,Oxyrhynchos;,76 CE - 100 CE;," grc, grc;",None;,None;,no,no editorial tremas,,71
+709,http://www.papyri.info/ddbdp/p.oxy;44;3194,p.oxy 44 3194,15955,"Eingabe, betreffend ein vor dem Archidikastes anhängiges Verfahren;",Oxyrhynchos;,266 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,0
+316,http://www.papyri.info/ddbdp/p.oxy;44;3199,p.oxy 44 3199,26699,Letter to a Relative;,Oxyrhynchos;,76 CE - 100 CE;," grc, grc;",None;,None;,no,no editorial tremas,,72
+317,http://www.papyri.info/ddbdp/p.oxy;44;3202,p.oxy 44 3202,30218,keiner;,Oxyrhynchos;,76 CE - 100 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,73
+318,http://www.papyri.info/ddbdp/p.oxy;45;3240,p.oxy 45 3240,15906,keiner;,Oxyrhynchos;,77 CE - 83 CE;," grc, grc;",None;,"Img, Img (ext.);",no,no editorial tremas,,74
+319,http://www.papyri.info/ddbdp/p.oxy;45;3245,p.oxy 45 3245,15910,Order to the Agoranomos to Register the Sale of a Slave;,Oxyrhynchos;,89 CE;," grc, grc;",None;,"Img (ext.), Print;",no,has marked tremas,,75
+760,http://www.papyri.info/ddbdp/p.oxy;45;3264,p.oxy 45 3264,15846,"Eingabe, betreffend ein vor dem Archidikastes anhängiges Verfahren;",Oxyrhynchos;,266 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,0
+320,http://www.papyri.info/ddbdp/p.oxy;46;3291,p.oxy 46 3291,15756,keiner;,Oxyrhynchos;,89 CE;," grc, grc;",None;,"Img, Img (ext.);",no,no editorial tremas,,76
+321,http://www.papyri.info/ddbdp/p.oxy;46;3292,p.oxy 46 3292,15757,keiner;,Oxyrhynchos;,81 CE - 83 CE;," grc, grc;",None;,Print;,no,no editorial tremas,,77
+322,http://www.papyri.info/ddbdp/p.oxy;46;3293,p.oxy 46 3293,15758,keiner;,Oxyrhynchos;,99 CE - 100 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,78
+323,http://www.papyri.info/ddbdp/p.oxy;46;3296,p.oxy 46 3296,15761,keiner;,Oxyrhynchos;,100 CE;," grc, grc;",None;,Print;,no,has marked tremas,,79
+324,http://www.papyri.info/ddbdp/p.oxy;46;3297,p.oxy 46 3297,15762,keiner;,Oxyrhynchos;,100 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,80
+325,http://www.papyri.info/ddbdp/p.oxy;46;3302,p.oxy 46 3302,15764,keiner;,Oxyrhynchos;,95 CE - 100 CE;," grc, grc;",None;,None;,no,has marked tremas,,81
+326,http://www.papyri.info/ddbdp/p.oxy;46;3305,p.oxy 46 3305,15767,keiner;,Oxyrhynchos;,76 CE - 100 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,82
+327,http://www.papyri.info/ddbdp/p.oxy;46;3306,p.oxy 46 3306,15768,keiner;,Oxyrhynchos;,76 CE - 100 CE;," grc, grc;",None;,None;,no,no editorial tremas,,83
+328,http://www.papyri.info/ddbdp/p.oxy;46;3312,p.oxy 46 3312,26645,keiner;,Oxyrhynchos;,76 CE - 100 CE;," grc, grc;",None;,None;,no,no editorial tremas,,84
+329,http://www.papyri.info/ddbdp/p.oxy;46;3313,p.oxy 46 3313,26646,Circular to Officials;,Oxyrhynchos;,184 CE - 216 CE;," grc, grc;",None;,None;,no,has marked tremas,,85
+330,http://www.papyri.info/ddbdp/p.oxy;47;3339,p.oxy 47 3339,22452,Application for Leave to Mortgage;,Oxyrhynchos;,108 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,86
+331,http://www.papyri.info/ddbdp/p.oxy;47;3341,p.oxy 47 3341,22454,Notification to the Strategus;,Oxyrhynchos;,178 CE;," grc, grc;",None;,None;,no,has marked tremas,,87
+614,http://www.papyri.info/ddbdp/p.oxy;47;3342,p.oxy 47 3342,22455,Extortion by a Tax - Collector;,Oxyrhynchos;,50 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,68
+332,http://www.papyri.info/ddbdp/p.oxy;47;3343,p.oxy 47 3343,22456,Petition to the Epistrategus;,Oxyrhynchos;,156 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,88
+615,http://www.papyri.info/ddbdp/p.oxy;47;3345,p.oxy 47 3345,22460,Extortion by a Tax - Collector;,Oxyrhynchos;,50 CE;," grc, grc;",None;,Print;,no,has marked tremas,,69
+734,http://www.papyri.info/ddbdp/p.oxy;47;3346,p.oxy 47 3346,22461,"Eingabe, betreffend ein vor dem Archidikastes anhängiges Verfahren;",Oxyrhynchos;,266 CE;," grc, grc;",None;,"Img (ext.), Print;",no,has marked tremas,,0
+333,http://www.papyri.info/ddbdp/p.oxy;47;3348,p.oxy 47 3348,22463,Order for Payment in Kind;,Oxyrhynchos;,160 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,89
+616,http://www.papyri.info/ddbdp/p.oxy;47;3349,p.oxy 47 3349,22464,Letter Concerning a Property Return;,Oxyrhynchos;,54 CE;," grc, grc;",None;,"Img, Img (ext.);",no,no editorial tremas,,70
+334,http://www.papyri.info/ddbdp/p.oxy;47;3356,p.oxy 47 3356,22470,Invitation to Dinner;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,90
+335,http://www.papyri.info/ddbdp/p.oxy;47;3357,p.oxy 47 3357,25948,Letter of Cyrillus;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,91
+336,http://www.papyri.info/ddbdp/p.oxy;47;3364,p.oxy 47 3364,22475,Letter of Hatres;,Oxyrhynchos;,101 CE - 225 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,92
+337,http://www.papyri.info/ddbdp/p.oxy;47;3365,p.oxy 47 3365,22476,Letter of Serenus;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,None;,no,has marked tremas,,93
+338,http://www.papyri.info/ddbdp/p.oxy;47;3366,p.oxy 47 3366,20885,Letter to Athenarus;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,94
+339,"http://www.papyri.info/ddbdp/p.oxy;47;3367,r,1",p.oxy 47 3367,20889,Letter of Dionysius;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,None;,no,no editorial tremas,,95
+340,http://www.papyri.info/ddbdp/p.oxy;48;3385,p.oxy 48 3385,22481,Letter of Cornelius;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,96
+341,http://www.papyri.info/ddbdp/p.oxy;48;3387,p.oxy 48 3387,22483,Letter of Heraclides;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,97
+342,http://www.papyri.info/ddbdp/p.oxy;49;3463,p.oxy 49 3463,15625,Letter of Apion;,Oxyrhynchos;,176 CE - 225 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,98
+343,http://www.papyri.info/ddbdp/p.oxy;49;3464,p.oxy 49 3464,15626,keiner;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,None;,no,no editorial tremas,,99
+344,http://www.papyri.info/ddbdp/p.oxy;49;3466,p.oxy 49 3466,15628,keiner;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,100
+345,http://www.papyri.info/ddbdp/p.oxy;49;3467,p.oxy 49 3467,15629,keiner;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,"Img, Img (ext.);",no,has marked tremas,,101
+346,http://www.papyri.info/ddbdp/p.oxy;49;3472,p.oxy 49 3472,15632,keiner;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,102
+347,http://www.papyri.info/ddbdp/p.oxy;49;3477,p.oxy 49 3477,15637,Petition to the Epistrategus;,Oxyrhynchos;,179 CE - 181 CE;," grc, grc;",None;,"Img, Img (ext.);",no,has marked tremas,,103
+348,http://www.papyri.info/ddbdp/p.oxy;49;3501,p.oxy 49 3501,30177,keiner;,Oxyrhynchos;,193 CE - 194 CE;," grc, grc;",None;,None;,no,has marked tremas,,104
+349,http://www.papyri.info/ddbdp/p.oxy;49;3503,p.oxy 49 3503,24965,Letter to a Strategus;,Oxyrhynchos;,234 CE - 238 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,105
+350,http://www.papyri.info/ddbdp/p.oxy;49;3505,p.oxy 49 3505,26609,Apportionment of Duties to an Exegetes;,Oxyrhynchos;,294 CE;," grc, grc;",None;,None;,no,no editorial tremas,,106
+351,http://www.papyri.info/ddbdp/p.oxy;49;3506,p.oxy 49 3506,30179,Invitation to Dinner;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,None;,no,has marked tremas,,107
+352,http://www.papyri.info/ddbdp/p.oxy;49;3507,p.oxy 49 3507,15656,Invitation to a Wedding;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,108
+353,http://www.papyri.info/ddbdp/p.oxy;49;3513,p.oxy 49 3513,45253,Letter of Lucius;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,109
+354,http://www.papyri.info/ddbdp/p.oxy;49;3514,p.oxy 49 3514,45254,Letter to Ptolemaeus from his Mother;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,110
+355,http://www.papyri.info/ddbdp/p.oxy;49;3515,p.oxy 49 3515,45255,Letter of Theopompus to a Strategus;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,None;,no,no editorial tremas,,111
+356,http://www.papyri.info/ddbdp/p.oxy;49;3516,p.oxy 49 3516,45256,Letter of Thais;,Oxyrhynchos;,176 CE - 200 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,112
+357,http://www.papyri.info/ddbdp/p.oxy;49;3517,p.oxy 49 3517,45257,Letter of Diogenes;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,None;,no,no editorial tremas,,113
+358,http://www.papyri.info/ddbdp/p.oxy;49;3518,p.oxy 49 3518,45258,Letter of Aurelius Stephanus;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,114
+359,http://www.papyri.info/ddbdp/p.oxy;49;3519,p.oxy 49 3519,45259,Letter of Serenus;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,None;,no,no editorial tremas,,115
+360,http://www.papyri.info/ddbdp/p.oxy;49;3520,p.oxy 49 3520,15674,Letter of Pausanias;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,None;,no,no editorial tremas,,116
+361,http://www.papyri.info/ddbdp/p.oxy;49;3521,p.oxy 49 3521,45261,Letter of Demarchus;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,None;,no,no editorial tremas,,117
+362,http://www.papyri.info/ddbdp/p.oxy;50;3556,p.oxy 50 3556,15380,Private Correspondence;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,Print;,no,no editorial tremas,,118
+363,http://www.papyri.info/ddbdp/p.oxy;50;3563,p.oxy 50 3563,15385,Private Correspondence;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,None;,no,no editorial tremas,,119
+364,http://www.papyri.info/ddbdp/p.oxy;50;3570,p.oxy 50 3570,15392,Petition to the Epistrategus;,Oxyrhynchos;,162 CE;," grc, grc;",None;,None;,no,has marked tremas,,120
+365,http://www.papyri.info/ddbdp/p.oxy;50;3578,p.oxy 50 3578,15399,Order for Delivery of Wine;,Oxyrhynchos;,231 CE - 263 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,121
+366,http://www.papyri.info/ddbdp/p.oxy;50;3579,p.oxy 50 3579,15400,Order for Delivery of Wine;,Oxyrhynchos;,235 CE - 267 CE;," grc, grc;",None;,None;,no,has marked tremas,,122
+367,http://www.papyri.info/ddbdp/p.oxy;51;3607,p.oxy 51 3607,15342,Letter of Marcus;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,None;,no,no editorial tremas,,123
+368,http://www.papyri.info/ddbdp/p.oxy;51;3611,p.oxy 51 3611,15346,Letter to Amois;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,None;,no,no editorial tremas,,124
+369,http://www.papyri.info/ddbdp/p.oxy;51;3612,p.oxy 51 3612,15347,Letter to Didymas;,Oxyrhynchos;,218 CE - 219 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,125
+370,http://www.papyri.info/ddbdp/p.oxy;51;3615,p.oxy 51 3615,15350,Letter of Hephaestion;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,"Img, Img (ext.);",no,has marked tremas,,126
+371,http://www.papyri.info/ddbdp/p.oxy;51;3618,p.oxy 51 3618,15351,Letter of Nemesianus;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,None;,no,has marked tremas,,127
+372,http://www.papyri.info/ddbdp/p.oxy;51;3621,p.oxy 51 3621,15354,Letter of Helene;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,Print;,no,has marked tremas,,128
+373,http://www.papyri.info/ddbdp/p.oxy;51;3642,p.oxy 51 3642,26518,Letter of Satornilus;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,"Img, Img (ext.);",no,has marked tremas,,129
+374,http://www.papyri.info/ddbdp/p.oxy;51;3643,p.oxy 51 3643,26519,Letter of Troilus;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,None;,no,has marked tremas,,130
+375,http://www.papyri.info/ddbdp/p.oxy;51;3644,p.oxy 51 3644,30073,Edict of a Praefect;,Oxyrhynchos;,206 CE;," grc, grc;",None;,Print;,no,no editorial tremas,,131
+376,http://www.papyri.info/ddbdp/p.oxy;51;3645,p.oxy 51 3645,30074,Application for Payment;,Oxyrhynchos;,306 CE;," grc, grc;",None;,None;,no,has marked tremas,,132
+377,http://www.papyri.info/ddbdp/p.oxy;52;3694,p.oxy 52 3694,15332,Notice to the Agoranomus;,Oxyrhynchos;,81 CE - 96 CE;," grc, grc;",None;,None;,no,no editorial tremas,,133
+378,http://www.papyri.info/ddbdp/p.oxy;54;3767,p.oxy 54 3767,15280,"Petition to a Strategus, etc.;",Oxyrhynchos;,253 CE;," grc, grc;",None;,None;,no,has marked tremas,,134
+379,http://www.papyri.info/ddbdp/p.oxy;55;3781,p.oxy 55 3781,22505,Order for Vegetable - seed;,Oxyrhynchos;,293 CE;," grc, grc;",None;,None;,no,no editorial tremas,,135
+380,http://www.papyri.info/ddbdp/p.oxy;55;3788,p.oxy 55 3788,22512,Order for Purchases;,Oxyrhynchos;,276 CE - 300 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,136
+757,http://www.papyri.info/ddbdp/p.oxy;55;3794,p.oxy 55 3794,69908,"Eingabe, betreffend ein vor dem Archidikastes anhängiges Verfahren;",Oxyrhynchos;,266 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,0
+381,http://www.papyri.info/ddbdp/p.oxy;55;3801,p.oxy 55 3801,22523,Letter of Theon;,Oxyrhynchos;,76 CE - 100 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,137
+382,http://www.papyri.info/ddbdp/p.oxy;55;3808,p.oxy 55 3808,25949,Letter of Anubion;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,None;,no,no editorial tremas,,138
+383,http://www.papyri.info/ddbdp/p.oxy;55;3809,p.oxy 55 3809,29103,Letter of Pathermouthis;,Oxyrhynchos;,276 CE - 300 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,139
+384,http://www.papyri.info/ddbdp/p.oxy;55;3810,p.oxy 55 3810,29104,Letter to a Wife;,Oxyrhynchos;,276 CE - 300 CE;," grc, grc;",None;,None;,no,no editorial tremas,,140
+385,http://www.papyri.info/ddbdp/p.oxy;55;3811,p.oxy 55 3811,31912,Letter of a Strategus;,Oxyrhynchos;,347 CE;," grc, grc;",None;,None;,no,has marked tremas,,141
+386,http://www.papyri.info/ddbdp/p.oxy;55;3812,p.oxy 55 3812,31913,Official Correspondence;,Oxyrhynchos;,280 CE;," grc, grc;",None;,None;,no,has marked tremas,,142
+387,http://www.papyri.info/ddbdp/p.oxy;55;3816,p.oxy 55 3816,31917,Petition Concerning an Ephebus;,Oxyrhynchos;,218 CE;," grc, grc;",None;,"Img, Img (ext.);",no,no editorial tremas,,143
+388,http://www.papyri.info/ddbdp/p.oxy;55;3818,p.oxy 55 3818,22530,Publication of an Appointment;,Oxyrhynchos;,260 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,144
+389,http://www.papyri.info/ddbdp/p.oxy;55;3819,p.oxy 55 3819,33737,Letter of Theon;,Oxyrhynchos;,118 CE - 138 CE;," grc, grc;",None;,None;,no,has marked tremas,,145
+390,http://www.papyri.info/ddbdp/p.oxy;55;3820,p.oxy 55 3820,22531,Letter to Didyme;,Oxyrhynchos;,176 CE - 225 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,146
+391,http://www.papyri.info/ddbdp/p.oxy;55;3821,p.oxy 55 3821,22532,Letter of Tasoïs;,Oxyrhynchos;,101 CE - 225 CE;," grc, grc;",None;,Print;,no,no editorial tremas,,147
+392,http://www.papyri.info/ddbdp/p.oxy;56;3852,p.oxy 56 3852,28936,Letter of Dius;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,None;,no,no editorial tremas,,148
+393,http://www.papyri.info/ddbdp/p.oxy;56;3853,p.oxy 56 3853,31653,Letter of Ammon;,Oxyrhynchos;,330 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,149
+394,http://www.papyri.info/ddbdp/p.oxy;56;3854,p.oxy 56 3854,31654,Fragment of a Letter;,Oxyrhynchos;,176 CE - 300 CE;," grc, grc;",None;,None;,no,has marked tremas,,150
+772,http://papyri.info/ddbdp/p.oxy;56;3855,p.oxy 56 3855,21598,letter,Oxyrhynchos,280 CE - 281 CE,"grc, grc;",None;,None;,21599,has marked tremas,,1
+749,http://www.papyri.info/ddbdp/p.oxy;56;3855,p.oxy 56 3855,21599,Letter to a Tax - Farmer of the xenike praktoria;,Oxyrhynchos;,206 CE - 212 CE;," grc, grc;",None;,"Img, Img (ext.), Print;",head,has marked tremas,,6
+395,http://www.papyri.info/ddbdp/p.oxy;56;3856,p.oxy 56 3856,31655,Fragment of a Letter;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,None;,no,no editorial tremas,,151
+699,http://www.papyri.info/ddbdp/p.oxy;58;3919,p.oxy 58 3919,17903,Anweisung an die Totengräber;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,16
+617,http://www.papyri.info/ddbdp/p.oxy;58;3923,p.oxy 58 3923,30768,Letter Concerning a Mouse - Catcher;,Oxyrhynchos;,76 CE - 100 CE;," grc, grc;",None;,None;,no,no editorial tremas,,71
+396,http://www.papyri.info/ddbdp/p.oxy;58;3925,p.oxy 58 3925,17908,Fragment of a Letter;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,None;,no,no editorial tremas,,152
+397,http://www.papyri.info/ddbdp/p.oxy;58;3930,p.oxy 58 3930,17913,Beginning of a Letter;,Oxyrhynchos;,276 CE - 300 CE;," grc, grc;",None;,None;,no,has marked tremas,,153
+398,http://www.papyri.info/ddbdp/p.oxy;59;3974,p.oxy 59 3974,19260,Order from a Prytanis to a Tax - Collector;,Oxyrhynchos;,265 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,154
+618,http://www.papyri.info/ddbdp/p.oxy;59;3977,p.oxy 59 3977,19263,Letter to a Relative;,Oxyrhynchos;,76 CE - 100 CE;," grc, grc;",None;,None;,no,no editorial tremas,,72
+765,http://www.papyri.info/ddbdp/p.oxy;59;3979,p.oxy 59 3979,19265,"Eingabe, betreffend ein vor dem Archidikastes anhängiges Verfahren;",Oxyrhynchos;,266 CE;," grc, grc;",None;,"Img (ext.), Print;",no,has marked tremas,,0
+399,http://www.papyri.info/ddbdp/p.oxy;59;3980,p.oxy 59 3980,19267,Application for Examination of a Slave;,Oxyrhynchos;,215 CE;," grc, grc;",None;,None;,no,has marked tremas,,155
+762,http://www.papyri.info/ddbdp/p.oxy;59;3982,p.oxy 59 3982,19269,"Eingabe, betreffend ein vor dem Archidikastes anhängiges Verfahren;",Oxyrhynchos;,266 CE;," grc, grc;",None;,"Img (ext.), Print;",no,has marked tremas,,0
+619,http://www.papyri.info/ddbdp/p.oxy;59;3983,p.oxy 59 3983,19270,keiner;,Oxyrhynchos;,76 CE - 100 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,73
+620,http://www.papyri.info/ddbdp/p.oxy;59;3984,p.oxy 59 3984,19271,keiner;,Oxyrhynchos;,77 CE - 83 CE;," grc, grc;",None;,"Img, Img (ext.);",no,no editorial tremas,,74
+400,http://www.papyri.info/ddbdp/p.oxy;59;3989,p.oxy 59 3989,27845,Petition for ius trium liberorum;,Oxyrhynchos;,263 CE;," grc, grc;",None;,None;,no,has marked tremas,,156
+621,http://www.papyri.info/ddbdp/p.oxy;59;3990,p.oxy 59 3990,27846,Order to the Agoranomos to Register the Sale of a Slave;,Oxyrhynchos;,89 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,75
+401,http://www.papyri.info/ddbdp/p.oxy;59;3991,p.oxy 59 3991,27847,Letter of Morus to a Friend;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,157
+622,http://www.papyri.info/ddbdp/p.oxy;59;3993,p.oxy 59 3993,27849,keiner;,Oxyrhynchos;,89 CE;," grc, grc;",None;,"Img, Img (ext.);",no,has marked tremas,,76
+623,http://www.papyri.info/ddbdp/p.oxy;59;3994,p.oxy 59 3994,31126,keiner;,Oxyrhynchos;,81 CE - 83 CE;," grc, grc;",None;,Print;,no,no editorial tremas,,77
+624,http://www.papyri.info/ddbdp/p.oxy;59;3995,p.oxy 59 3995,31127,keiner;,Oxyrhynchos;,99 CE - 100 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,78
+625,http://www.papyri.info/ddbdp/p.oxy;59;3996,p.oxy 59 3996,31128,keiner;,Oxyrhynchos;,100 CE;," grc, grc;",None;,Print;,no,has marked tremas,,79
+106,http://www.papyri.info/ddbdp/p.oxy;6;890,p.oxy 6 890,20353,Edict of a Praefect Concerning Archives;,Oxyrhynchos;,127 CE;," grc, grc;",None;,None;,no,has marked tremas,,1
+107,http://www.papyri.info/ddbdp/p.oxy;6;891,p.oxy 6 891,20354,Auskunftserteilung durch die βιβλιοφύλακες ἐγκτήσεων über das Vermögen eines Inquisiten;,Oxyrhynchos;,309 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,2
+108,http://www.papyri.info/ddbdp/p.oxy;6;926,p.oxy 6 926,31320,Notice of the Deaths of Slaves;,Oxyrhynchos;,78 CE - 79 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,3
+109,http://www.papyri.info/ddbdp/p.oxy;6;927,p.oxy 6 927,31321,Letter of Apion;,Oxyrhynchos;,196 CE - 198 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,4
+110,http://www.papyri.info/ddbdp/p.oxy;6;928,p.oxy 6 928,28338,Official Confirmation of the Return of a Will;,Oxyrhynchos;,116 CE;," grc, grc;",None;,"Img (ext.), Print;",no,has marked tremas,,5
+746,http://www.papyri.info/ddbdp/p.oxy;6;929,p.oxy 6 929,28339,Notice of the Deaths of Slaves;,Oxyrhynchos;,78 CE - 79 CE;," grc, grc;",None;,"Img (ext.), Print;",head,no editorial tremas,,3
+774,http://papyri.info/ddbdp/p.oxy;6;929,p.oxy 6 929,28340,Account,Oxyrhynchos,100 CE - 125 CE,"grc, grc;",None;,None;,28399,no editorial tremas,,3
+111,http://www.papyri.info/ddbdp/p.oxy;6;930,p.oxy 6 930,28341,Letter to a Tax - Farmer of the xenike praktoria;,Oxyrhynchos;,206 CE - 212 CE;," grc, grc;",None;,"Img, Img (ext.), Print;",no,no editorial tremas,,6
+112,http://www.papyri.info/ddbdp/p.oxy;6;931,p.oxy 6 931,28342,Invitation to the Kline of Sarapis;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,"Img, Img (ext.), Print;",no,no editorial tremas,,7
+113,http://www.papyri.info/ddbdp/p.oxy;6;932,p.oxy 6 932,28343,Invitation to the Kline of Sarapis;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,"Img, Img (ext.), Print;",no,has marked tremas,,8
+114,http://www.papyri.info/ddbdp/p.oxy;6;933,p.oxy 6 933,31322,Letter of Fishermen to a Strategus;,Oxyrhynchos;,128 CE - 131 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,9
+115,http://www.papyri.info/ddbdp/p.oxy;6;934,p.oxy 6 934,31323,Plainte au sujet d’une ruade;,Oxyrhynchos;,59 CE;," grc, grc;",None;,None;,no,no editorial tremas,,10
+116,http://www.papyri.info/ddbdp/p.oxy;6;935,p.oxy 6 935,31324,Official correspondence;,Oxyrhynchos;,297 CE - 298 CE;," grc, grc;",None;,None;,no,no editorial tremas,,11
+117,http://www.papyri.info/ddbdp/p.oxy;6;936,p.oxy 6 936,31325,Miscellaneous papyri;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,None;,no,has marked tremas,,12
+118,http://www.papyri.info/ddbdp/p.oxy;6;937,p.oxy 6 937,31326,Inizio di documento ufficiale;,Oxyrhynchos;,72 CE - 73 CE;," grc, grc;",None;,Print;,no,has marked tremas,,13
+119,http://www.papyri.info/ddbdp/p.oxy;6;963,p.oxy 6 963,28344,Petition an den Präfekten von Ägypten Flavius Philagrius;,Oxyrhynchos;,334 CE - 340 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,14
+120,http://www.papyri.info/ddbdp/p.oxy;6;967,p.oxy 6 967,28345,Rechtfertigung eines Dammaufsehers gegenüber dem Idioslogos;,Oxyrhynchos;,148 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,15
+402,http://www.papyri.info/ddbdp/p.oxy;60;4058,p.oxy 60 4058,22535,"Register of correspondence received by ""tabularii"";",Oxyrhynchos;,247 CE;," grc, grc;",None;,Print;,no,no editorial tremas,,158
+777,http://www.papyri.info/ddbdp/p.oxy;60;4059,p.oxy 60 4059,22536,Edict of a Praefect Concerning Archives;,Oxyrhynchos;,127 CE;," grc, grc;",None;,None;,22537,no editorial tremas,,6
+754,http://www.papyri.info/ddbdp/p.oxy;60;4059,p.oxy 60 4059,22537,Edict of a Praefect Concerning Archives;,Oxyrhynchos;,127 CE;," grc, grc;",None;,None;,head,no editorial tremas,,1
+778,http://www.papyri.info/ddbdp/p.oxy;60;4059,p.oxy 60 4059,22538,Edict of a Praefect Concerning Archives;,Oxyrhynchos;,127 CE;," grc, grc;",None;,None;,22537,no editorial tremas,,7
+403,http://www.papyri.info/ddbdp/p.oxy;60;4061,p.oxy 60 4061,22545,Order for Payment to Tax - collectors;,Oxyrhynchos;,272 CE - 278 CE;," grc, grc;",None;,None;,no,no editorial tremas,,159
+404,http://www.papyri.info/ddbdp/p.oxy;60;4062,p.oxy 60 4062,22546,Order for Payment of Wine;,Oxyrhynchos;,324 CE;," grc, grc;",None;,None;,no,no editorial tremas,,160
+405,http://www.papyri.info/ddbdp/p.oxy;60;4083,p.oxy 60 4083,22564,Order for Tasting Wine;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,None;,no,no editorial tremas,,161
+406,http://www.papyri.info/ddbdp/p.oxy;60;4084,p.oxy 60 4084,22565,Appointment of a Representative and Instructions;,Oxyrhynchos;,289 CE;," grc, grc;",None;,None;,no,has marked tremas,,162
+407,http://www.papyri.info/ddbdp/p.oxy;61;4116,p.oxy 61 4116,31661,Abstracts of Contracts;,Oxyrhynchos;,279 CE - 280 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,163
+408,http://www.papyri.info/ddbdp/p.oxy;61;4118,p.oxy 61 4118,31662,List of Utensils;,Oxyrhynchos;,276 CE - 300 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,164
+409,http://www.papyri.info/ddbdp/p.oxy;61;4119,p.oxy 61 4119,21620,Letter to a Dioecetes;,Oxyrhynchos;,74 CE;," grc, grc;",None;,None;,no,has marked tremas,,165
+410,http://www.papyri.info/ddbdp/p.oxy;61;4120,p.oxy 61 4120,21621,Appointment of a Deputy - Prytanis;,Oxyrhynchos;,246 CE;," grc, grc;",None;,None;,no,has marked tremas,,166
+418,http://www.papyri.info/ddbdp/p.oxy;61;4123,p.oxy 61 4123,21624,Invitation to the Kline of Sarapis;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,"Img, Img (ext.), Print;",no,no editorial tremas,,7
+750,http://www.papyri.info/ddbdp/p.oxy;62;4340,p.oxy 62 4340,31664,Invitation to the Kline of Sarapis;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,"Img, Img (ext.), Print;",no,no editorial tremas,,7
+419,http://www.papyri.info/ddbdp/p.oxy;63;4354,p.oxy 63 4354,22122,Invitation to the Kline of Sarapis;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,"Img, Img (ext.), Print;",no,no editorial tremas,,8
+420,http://www.papyri.info/ddbdp/p.oxy;63;4358,p.oxy 63 4358,22125,Letter of Fishermen to a Strategus;,Oxyrhynchos;,128 CE - 131 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,9
+421,http://www.papyri.info/ddbdp/p.oxy;63;4369,p.oxy 63 4369,22132,Plainte au sujet d’une ruade;,Oxyrhynchos;,59 CE;," grc, grc;",None;,None;,no,no editorial tremas,,10
+422,http://www.papyri.info/ddbdp/p.oxy;64;4435,p.oxy 64 4435,32161,Official correspondence;,Oxyrhynchos;,297 CE - 298 CE;," grc, grc;",None;,None;,no,no editorial tremas,,11
+423,http://www.papyri.info/ddbdp/p.oxy;65;4481,p.oxy 65 4481,78580,Miscellaneous papyri;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,None;,no,no editorial tremas,,12
+424,http://www.papyri.info/ddbdp/p.oxy;65;4483,p.oxy 65 4483,78583,Inizio di documento ufficiale;,Oxyrhynchos;,72 CE - 73 CE;," grc, grc;",None;,Print;,no,no editorial tremas,,13
+425,http://www.papyri.info/ddbdp/p.oxy;66;4526,p.oxy 66 4526,78598,Petition an den Präfekten von Ägypten Flavius Philagrius;,Oxyrhynchos;,334 CE - 340 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,14
+426,http://www.papyri.info/ddbdp/p.oxy;66;4544,p.oxy 66 4544,78613,Rechtfertigung eines Dammaufsehers gegenüber dem Idioslogos;,Oxyrhynchos;,148 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,15
+626,http://www.papyri.info/ddbdp/p.oxy;67;4592,p.oxy 67 4592,16756,keiner;,Oxyrhynchos;,100 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,80
+627,http://www.papyri.info/ddbdp/p.oxy;67;4625,p.oxy 67 4625,78664,keiner;,Oxyrhynchos;,95 CE - 100 CE;," grc, grc;",None;,None;,no,no editorial tremas,,81
+628,http://www.papyri.info/ddbdp/p.oxy;67;4626,p.oxy 67 4626,78665,keiner;,Oxyrhynchos;,76 CE - 100 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,82
+629,http://www.papyri.info/ddbdp/p.oxy;67;4627,p.oxy 67 4627,78666,keiner;,Oxyrhynchos;,76 CE - 100 CE;," grc, grc;",None;,None;,no,no editorial tremas,,83
+121,http://www.papyri.info/ddbdp/p.oxy;7;1032,p.oxy 7 1032,20328,Anweisung an die Totengräber;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,16
+122,http://www.papyri.info/ddbdp/p.oxy;7;1054,p.oxy 7 1054,20344,Gestellungsbürgschaft;,Oxyrhynchos;,173 CE - 174 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,17
+123,http://www.papyri.info/ddbdp/p.oxy;7;1055,p.oxy 7 1055,20346,Copia (?) di un rapporto di episkepsis;,Oxyrhynchos;,159 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,18
+124,http://www.papyri.info/ddbdp/p.oxy;7;1062,p.oxy 7 1062,28331,Richiesta di pagamento da parte della corporazione τῶν χαλκέων;,Oxyrhynchos;,283 CE - 292 CE;," grc, grc;",None;,"Img (ext.), Print;",no,has marked tremas,,19
+125,http://www.papyri.info/ddbdp/p.oxy;7;1063,p.oxy 7 1063,28332,Letter of the Senate to the Strategus;,Oxyrhynchos;,310 CE - 311 CE;," grc, grc;",None;,Print;,no,no editorial tremas,,20
+126,http://www.papyri.info/ddbdp/p.oxy;7;1064,p.oxy 7 1064,20351,Registration of an Apprentice;,Oxyrhynchos;,58 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,21
+127,http://www.papyri.info/ddbdp/p.oxy;7;1065,p.oxy 7 1065,31312,Registration of an Apprentice;,Oxyrhynchos;,62 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,22
+128,http://www.papyri.info/ddbdp/p.oxy;7;1066,p.oxy 7 1066,31313,Official Letter;,Oxyrhynchos;,188 CE - 190 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,23
+129,http://www.papyri.info/ddbdp/p.oxy;7;1067,p.oxy 7 1067,31314,Entwurf zu einer Eingabe (Neuedition von P.Mich. XI 616);,Oxyrhynchos;,181 CE - 183 CE;," grc, grc;",None;,"Img (ext.), Print;",no,has marked tremas,,24
+130,http://www.papyri.info/ddbdp/p.oxy;7;1068,p.oxy 7 1068,31315,Fragment of official letter or petition;,Oxyrhynchos;,341 CE;," grc, grc;",None;,None;,no,has marked tremas,,25
+131,http://www.papyri.info/ddbdp/p.oxy;7;1069,p.oxy 7 1069,31316,Lettera di Theone ad Heraclide;,Oxyrhynchos;,101 CE - 150 CE;," grc, grc;",None;,Print;,no,has marked tremas,,26
+427,http://www.papyri.info/ddbdp/p.oxy;70;4772,p.oxy 70 4772,92163,Anweisung an die Totengräber;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,16
+428,http://www.papyri.info/ddbdp/p.oxy;70;4773,p.oxy 70 4773,92164,Gestellungsbürgschaft;,Oxyrhynchos;,173 CE - 174 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,17
+429,http://www.papyri.info/ddbdp/p.oxy;70;4775r,p.oxy 70 4775r,92166,Copia (?) di un rapporto di episkepsis;,Oxyrhynchos;,159 CE;," grc, grc;",None;,"Img (ext.), Print;",no,has marked tremas,,18
+430,http://www.papyri.info/ddbdp/p.oxy;70;4778,p.oxy 70 4778,92170,Richiesta di pagamento da parte della corporazione τῶν χαλκέων;,Oxyrhynchos;,283 CE - 292 CE;," grc, grc;",None;,"Img (ext.), Print;",no,has marked tremas,,19
+630,http://www.papyri.info/ddbdp/p.oxy;72;4856,p.oxy 72 4856,114236,keiner;,Oxyrhynchos;,76 CE - 100 CE;," grc, grc;",None;,None;,no,no editorial tremas,,84
+631,http://www.papyri.info/ddbdp/p.oxy;72;4857,p.oxy 72 4857,114237,Circular to Officials;,Oxyrhynchos;,184 CE - 216 CE;," grc, grc;",None;,None;,no,no editorial tremas,,85
+632,http://www.papyri.info/ddbdp/p.oxy;72;4859,p.oxy 72 4859,114239,Application for Leave to Mortgage;,Oxyrhynchos;,108 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,86
+633,http://www.papyri.info/ddbdp/p.oxy;72;4861,p.oxy 72 4861,114241,Notification to the Strategus;,Oxyrhynchos;,178 CE;," grc, grc;",None;,None;,no,no editorial tremas,,87
+634,http://www.papyri.info/ddbdp/p.oxy;72;4862,p.oxy 72 4862,114242,Petition to the Epistrategus;,Oxyrhynchos;,156 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,88
+635,http://www.papyri.info/ddbdp/p.oxy;72;4864,p.oxy 72 4864,114244,Order for Payment in Kind;,Oxyrhynchos;,160 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,89
+636,http://www.papyri.info/ddbdp/p.oxy;72;4865,p.oxy 72 4865,114245,Invitation to Dinner;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,90
+637,http://www.papyri.info/ddbdp/p.oxy;72;4867,p.oxy 72 4867,114247,Letter of Cyrillus;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,91
+638,http://www.papyri.info/ddbdp/p.oxy;72;4870,p.oxy 72 4870,114250,Letter of Hatres;,Oxyrhynchos;,101 CE - 225 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,92
+639,http://www.papyri.info/ddbdp/p.oxy;72;4871,p.oxy 72 4871,114251,Letter of Serenus;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,None;,no,no editorial tremas,,93
+640,http://www.papyri.info/ddbdp/p.oxy;72;4873,p.oxy 72 4873,114253,Letter to Athenarus;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,94
+641,http://www.papyri.info/ddbdp/p.oxy;72;4874,p.oxy 72 4874,114254,Letter of Dionysius;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,None;,no,no editorial tremas,,95
+642,http://www.papyri.info/ddbdp/p.oxy;72;4875,p.oxy 72 4875,114255,Letter of Cornelius;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,96
+643,http://www.papyri.info/ddbdp/p.oxy;72;4876,p.oxy 72 4876,114256,Letter of Heraclides;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,97
+644,http://www.papyri.info/ddbdp/p.oxy;72;4877,p.oxy 72 4877,114257,Letter of Apion;,Oxyrhynchos;,176 CE - 225 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,98
+645,http://www.papyri.info/ddbdp/p.oxy;72;4878,p.oxy 72 4878,114258,keiner;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,None;,no,no editorial tremas,,99
+646,http://www.papyri.info/ddbdp/p.oxy;72;4879,p.oxy 72 4879,114259,keiner;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,100
+647,http://www.papyri.info/ddbdp/p.oxy;72;4880,p.oxy 72 4880,114260,keiner;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,"Img, Img (ext.);",no,no editorial tremas,,101
+648,http://www.papyri.info/ddbdp/p.oxy;72;4882,p.oxy 72 4882,114262,keiner;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,102
+649,http://www.papyri.info/ddbdp/p.oxy;72;4884,p.oxy 72 4884,114264,Petition to the Epistrategus;,Oxyrhynchos;,179 CE - 181 CE;," grc, grc;",None;,"Img, Img (ext.);",no,no editorial tremas,,103
+650,http://www.papyri.info/ddbdp/p.oxy;72;4885v,p.oxy 72 4885v,114265,keiner;,Oxyrhynchos;,193 CE - 194 CE;," grc, grc;",None;,None;,no,no editorial tremas,,104
+651,http://www.papyri.info/ddbdp/p.oxy;72;4888,p.oxy 72 4888,114269,Letter to a Strategus;,Oxyrhynchos;,234 CE - 238 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,105
+735,http://www.papyri.info/ddbdp/p.oxy;72;4892,p.oxy 72 4892,114273,Edict of a Praefect Concerning Archives;,Oxyrhynchos;,127 CE;," grc, grc;",None;,None;,no,has marked tremas,,1
+431,http://www.papyri.info/ddbdp/p.oxy;73;4959,p.oxy 73 4959,118649,Letter of the Senate to the Strategus;,Oxyrhynchos;,310 CE - 311 CE;," grc, grc;",None;,Print;,no,has marked tremas,,20
+432,http://www.papyri.info/ddbdp/p.oxy;73;4960,p.oxy 73 4960,118650,Registration of an Apprentice;,Oxyrhynchos;,58 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,21
+433,http://www.papyri.info/ddbdp/p.oxy;73;4962,p.oxy 73 4962,118652,Registration of an Apprentice;,Oxyrhynchos;,62 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,22
+434,http://www.papyri.info/ddbdp/p.oxy;74;4984,p.oxy 74 4984,128289,Official Letter;,Oxyrhynchos;,188 CE - 190 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,23
+435,http://www.papyri.info/ddbdp/p.oxy;75;5049,p.oxy 75 5049,128890,Entwurf zu einer Eingabe (Neuedition von P.Mich. XI 616);,Oxyrhynchos;,181 CE - 183 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,24
+436,http://www.papyri.info/ddbdp/p.oxy;75;5051,p.oxy 75 5051,128892,Fragment of official letter or petition;,Oxyrhynchos;,341 CE;," grc, grc;",None;,None;,no,no editorial tremas,,25
+437,http://www.papyri.info/ddbdp/p.oxy;75;5054,p.oxy 75 5054,128895,Lettera di Theone ad Heraclide;,Oxyrhynchos;,101 CE - 150 CE;," grc, grc;",None;,Print;,no,no editorial tremas,,26
+438,http://www.papyri.info/ddbdp/p.oxy;75;5055,p.oxy 75 5055,128896,Letter;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,27
+439,http://www.papyri.info/ddbdp/p.oxy;75;5059,p.oxy 75 5059,128900,Letter of Recommendation;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,28
+440,http://www.papyri.info/ddbdp/p.oxy;75;5062,p.oxy 75 5062,128903,Letter of the Strategus of Alexandria concerning Two Stolen Camels;,Oxyrhynchos;,138 CE - 161 CE;," grc, grc;",None;,None;,no,has marked tremas,,29
+441,http://www.papyri.info/ddbdp/p.oxy;75;5063,p.oxy 75 5063,128904,Report of Public Physician;,Oxyrhynchos;,96 CE;," grc, grc;",None;,Print;,no,has marked tremas,,30
+442,http://www.papyri.info/ddbdp/p.oxy;76;5099,p.oxy 76 5099,140171,Orders for Delivery of Wine;,Oxyrhynchos;,296 CE - 330 CE;," grc, grc;",None;,None;,no,no editorial tremas,,31
+443,http://www.papyri.info/ddbdp/p.oxy;76;5100,p.oxy 76 5100,140172,Letter to an ἀρχιπροφήτης;,Oxyrhynchos;,276 CE - 300 CE;," grc, grc;",None;,None;,no,no editorial tremas,,32
+444,http://www.papyri.info/ddbdp/p.oxy;77;5111,p.oxy 77 5111,140177,Sale of Taxes;,Oxyrhynchos;,66 CE - 70 CE;," grc, grc;",None;,"Img (ext.), Print;",no,has marked tremas,,33
+445,http://www.papyri.info/ddbdp/p.oxy;77;5112,p.oxy 77 5112,140178,Land Distribution;,Oxyrhynchos;,95 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,34
+755,http://www.papyri.info/ddbdp/p.oxy;77;5113,p.oxy 77 5113,140179,"Eingabe, betreffend ein vor dem Archidikastes anhängiges Verfahren;",Oxyrhynchos;,266 CE;," grc, grc;",None;,"Img (ext.), Print;",no,has marked tremas,,0
+446,http://www.papyri.info/ddbdp/p.oxy;78;5176,p.oxy 78 5176,128290,Land Distribution;,Oxyrhynchos;,100 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,35
+447,http://www.papyri.info/ddbdp/p.oxy;78;5177,p.oxy 78 5177,170060,Land Distribution;,Oxyrhynchos;,83 CE - 88 CE;," grc, grc;",None;,None;,no,no editorial tremas,,36
+448,http://www.papyri.info/ddbdp/p.oxy;78;5178,p.oxy 78 5178,170061,Emancipation of a Slave;,Oxyrhynchos;,86 CE;," grc, grc;",None;,None;,no,has marked tremas,,37
+449,http://www.papyri.info/ddbdp/p.oxy;78;5179,p.oxy 78 5179,170062,Emancipation of a Slave;,Oxyrhynchos;,100 CE;," grc, grc;",None;,None;,no,no editorial tremas,,38
+450,http://www.papyri.info/ddbdp/p.oxy;78;5180,p.oxy 78 5180,170063,Report of a Public Physician;,Oxyrhynchos;,173 CE;," grc, grc;",None;,Print;,no,no editorial tremas,,39
+451,http://www.papyri.info/ddbdp/p.oxy;78;5181,p.oxy 78 5181,170064,Repair of Public Buildings;,Oxyrhynchos;,201 CE;," grc, grc;",None;,None;,no,has marked tremas,,40
+756,http://www.papyri.info/ddbdp/p.oxy;79;5208,p.oxy 79 5208,381933,"Eingabe, betreffend ein vor dem Archidikastes anhängiges Verfahren;",Oxyrhynchos;,266 CE;," grc, grc;",None;,"Img (ext.), Print;",no,has marked tremas,,0
+452,http://www.papyri.info/ddbdp/p.oxy;79;5210,p.oxy 79 5210,381935,Embellishment of a New Street;,Oxyrhynchos;,283 CE;," grc, grc;",None;,None;,no,has marked tremas,,41
+132,http://www.papyri.info/ddbdp/p.oxy;8;1100,p.oxy 8 1100,21725,Letter;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,27
+133,http://www.papyri.info/ddbdp/p.oxy;8;1104,p.oxy 8 1104,21729,Letter of Recommendation;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,28
+134,http://www.papyri.info/ddbdp/p.oxy;8;1105,p.oxy 8 1105,21730,Letter of the Strategus of Alexandria concerning Two Stolen Camels;,Oxyrhynchos;,138 CE - 161 CE;," grc, grc;",None;,None;,no,no editorial tremas,,29
+135,http://www.papyri.info/ddbdp/p.oxy;8;1119,p.oxy 8 1119,21740,Report of Public Physician;,Oxyrhynchos;,96 CE;," grc, grc;",None;,Print;,no,has marked tremas,,30
+136,http://www.papyri.info/ddbdp/p.oxy;8;1140,p.oxy 8 1140,21758,Orders for Delivery of Wine;,Oxyrhynchos;,296 CE - 330 CE;," grc, grc;",None;,None;,no,no editorial tremas,,31
+137,http://www.papyri.info/ddbdp/p.oxy;8;1142,p.oxy 8 1142,31721,Letter to an ἀρχιπροφήτης;,Oxyrhynchos;,276 CE - 300 CE;," grc, grc;",None;,None;,no,no editorial tremas,,32
+138,http://www.papyri.info/ddbdp/p.oxy;8;1154,p.oxy 8 1154,25928,Sale of Taxes;,Oxyrhynchos;,66 CE - 70 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,33
+139,http://www.papyri.info/ddbdp/p.oxy;8;1156,p.oxy 8 1156,31722,Land Distribution;,Oxyrhynchos;,95 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,34
+140,http://www.papyri.info/ddbdp/p.oxy;8;1157,p.oxy 8 1157,31723,Land Distribution;,Oxyrhynchos;,100 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,35
+141,http://www.papyri.info/ddbdp/p.oxy;8;1159,p.oxy 8 1159,31725,Land Distribution;,Oxyrhynchos;,83 CE - 88 CE;," grc, grc;",None;,None;,no,has marked tremas,,36
+453,http://www.papyri.info/ddbdp/p.oxy;80;5254,p.oxy 80 5254,388560,Appointment of a Guardian;,Oxyrhynchos;,203 CE;," grc, grc;",None;,Print;,no,no editorial tremas,,42
+454,http://www.papyri.info/ddbdp/p.oxy;80;5255,p.oxy 80 5255,388561,Peculation by a Treasury Official;,Oxyrhynchos;,195 CE - 196 CE;," grc, grc;",None;,None;,no,no editorial tremas,,43
+455,http://www.papyri.info/ddbdp/p.oxy;81;5286,p.oxy 81 5286,704648,Appointment of Treasury Officials;,Oxyrhynchos;,288 CE;," grc, grc;",None;,None;,no,has marked tremas,,44
+456,http://www.papyri.info/ddbdp/p.oxy;83;5361,p.oxy 83 5361,786135,Appointment of a Delegate;,Oxyrhynchos;,292 CE;," grc, grc;",None;,None;,no,has marked tremas,,45
+567,http://www.papyri.info/ddbdp/p.oxy;9;1185,p.oxy 9 1185,21573,Registration of an Apprentice;,Oxyrhynchos;,58 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,21
+142,http://www.papyri.info/ddbdp/p.oxy;9;1190,p.oxy 9 1190,21577,Emancipation of a Slave;,Oxyrhynchos;,86 CE;," grc, grc;",None;,None;,no,no editorial tremas,,37
+143,http://www.papyri.info/ddbdp/p.oxy;9;1191,p.oxy 9 1191,21578,Emancipation of a Slave;,Oxyrhynchos;,100 CE;," grc, grc;",None;,None;,no,no editorial tremas,,38
+568,http://www.papyri.info/ddbdp/p.oxy;9;1192,p.oxy 9 1192,21579,Registration of an Apprentice;,Oxyrhynchos;,62 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,22
+144,http://www.papyri.info/ddbdp/p.oxy;9;1202,p.oxy 9 1202,21588,Report of a Public Physician;,Oxyrhynchos;,173 CE;," grc, grc;",None;,Print;,no,has marked tremas,,39
+569,http://www.papyri.info/ddbdp/p.oxy;9;1215,p.oxy 9 1215,28934,Official Letter;,Oxyrhynchos;,188 CE - 190 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,23
+570,http://www.papyri.info/ddbdp/p.oxy;9;1216,p.oxy 9 1216,28935,Entwurf zu einer Eingabe (Neuedition von P.Mich. XI 616);,Oxyrhynchos;,181 CE - 183 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,24
+571,http://www.papyri.info/ddbdp/p.oxy;9;1217,p.oxy 9 1217,31648,Fragment of official letter or petition;,Oxyrhynchos;,341 CE;," grc, grc;",None;,None;,no,no editorial tremas,,25
+572,http://www.papyri.info/ddbdp/p.oxy;9;1218,p.oxy 9 1218,31649,Lettera di Theone ad Heraclide;,Oxyrhynchos;,101 CE - 150 CE;," grc, grc;",None;,Print;,no,no editorial tremas,,26
+573,http://www.papyri.info/ddbdp/p.oxy;9;1219,p.oxy 9 1219,31650,Letter;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,27
+574,http://www.papyri.info/ddbdp/p.oxy;9;1220,p.oxy 9 1220,31651,Letter of Recommendation;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,28
+457,http://www.papyri.info/ddbdp/p.oxy.hels;;47a,p.oxy.hels 47a,26655,Commissariat;,Oxyrhynchos;,323 CE;," grc, grc;",None;,None;,no,no editorial tremas,,46
+458,http://www.papyri.info/ddbdp/p.oxy.hels;;47b,p.oxy.hels 47b,26656,Payment of a Fine;,Oxyrhynchos;,221 CE;," grc, grc;",None;,None;,no,no editorial tremas,,47
+459,http://www.papyri.info/ddbdp/p.oxy.hels;;47c,p.oxy.hels 47c,26657,Letter of a Centurion;,Oxyrhynchos;,222 CE;," grc, grc;",None;,None;,no,no editorial tremas,,48
+460,http://www.papyri.info/ddbdp/p.oxy.hels;;48,p.oxy.hels 48,26658,Letter of a Centurion;,Oxyrhynchos;,242 CE - 246 CE;," grc, grc;",None;,None;,no,no editorial tremas,,49
+461,http://www.papyri.info/ddbdp/p.oxy.hels;;49,p.oxy.hels 49,30200,Lading and Inspection of Corn;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,50
+462,http://www.papyri.info/ddbdp/p.oxy.hels;;50,p.oxy.hels 50,30201,Dispute Concerning Property;,Oxyrhynchos;,338 CE;," grc, grc;",None;,None;,no,no editorial tremas,,51
+463,http://www.papyri.info/ddbdp/p.princ;2;22,p.princ 2 22,17352,Complaint of a Pilot;,Oxyrhynchos;,338 CE;," grc, grc;",None;,None;,no,no editorial tremas,,52
+700,http://www.papyri.info/ddbdp/p.princ;2;72,p.princ 2 72,30617,Gestellungsbürgschaft;,Oxyrhynchos;,173 CE - 174 CE;," grc, grc;",None;,"Img (ext.), Print;",no,has marked tremas,,17
+464,http://www.papyri.info/ddbdp/p.princ;2;77,p.princ 2 77,32792,Order for Payment of Wheat;,Oxyrhynchos;,179 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,53
+701,http://www.papyri.info/ddbdp/p.ross.georg;3;6,p.ross.georg 3 6,32905,Copia (?) di un rapporto di episkepsis;,Oxyrhynchos;,159 CE;," grc, grc;",None;,"Img (ext.), Print;",no,has marked tremas,,18
+702,http://www.papyri.info/ddbdp/p.ross.georg;5;23,p.ross.georg 5 23,30679,Richiesta di pagamento da parte della corporazione τῶν χαλκέων;,Oxyrhynchos;,283 CE - 292 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,19
+465,http://www.papyri.info/ddbdp/p.ryl;4;691,p.ryl 4 691,30590,Revocation of a Will;,Oxyrhynchos;,123 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,54
+466,http://www.papyri.info/ddbdp/p.select;;5,p.select 5,30422,Letter;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,55
+724,http://www.papyri.info/ddbdp/p.stras;4;233,p.stras 4 233,30456,Inizio di documento ufficiale;,Oxyrhynchos;,72 CE - 73 CE;," grc, grc;",None;,Print;,no,no editorial tremas,,13
+662,http://www.papyri.info/ddbdp/p.theon;;1,p.theon 1,15861,Letter of Pausanias;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,None;,no,no editorial tremas,,116
+666,http://www.papyri.info/ddbdp/p.theon;;11,p.theon 11,15870,Petition to the Epistrategus;,Oxyrhynchos;,162 CE;," grc, grc;",None;,None;,no,no editorial tremas,,120
+667,http://www.papyri.info/ddbdp/p.theon;;12,p.theon 12,15871,Order for Delivery of Wine;,Oxyrhynchos;,231 CE - 263 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,121
+668,http://www.papyri.info/ddbdp/p.theon;;14,p.theon 14,15873,Order for Delivery of Wine;,Oxyrhynchos;,235 CE - 267 CE;," grc, grc;",None;,None;,no,no editorial tremas,,122
+669,http://www.papyri.info/ddbdp/p.theon;;19,p.theon 19,15878,Letter of Marcus;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,None;,no,no editorial tremas,,123
+663,http://www.papyri.info/ddbdp/p.theon;;2,p.theon 2,15862,Letter of Demarchus;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,None;,no,no editorial tremas,,117
+670,http://www.papyri.info/ddbdp/p.theon;;20,p.theon 20,15879,Letter to Amois;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,None;,no,no editorial tremas,,124
+671,http://www.papyri.info/ddbdp/p.theon;;22,p.theon 22,15881,Letter to Didymas;,Oxyrhynchos;,218 CE - 219 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,125
+672,http://www.papyri.info/ddbdp/p.theon;;23,p.theon 23,15882,Letter of Hephaestion;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,"Img, Img (ext.);",no,no editorial tremas,,126
+673,http://www.papyri.info/ddbdp/p.theon;;25,p.theon 25,15884,Letter of Nemesianus;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,None;,no,no editorial tremas,,127
+674,http://www.papyri.info/ddbdp/p.theon;;26,p.theon 26,15885,Letter of Helene;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,Print;,no,no editorial tremas,,128
+664,http://www.papyri.info/ddbdp/p.theon;;4,p.theon 4,15864,Private Correspondence;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,Print;,no,no editorial tremas,,118
+665,http://www.papyri.info/ddbdp/p.theon;;8,p.theon 8,15867,Private Correspondence;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,None;,no,no editorial tremas,,119
+498,http://www.papyri.info/ddbdp/p.turner;;41,p.turner 41,15702,Notification to the Strategus;,Oxyrhynchos;,178 CE;," grc, grc;",None;,None;,no,has marked tremas,,87
+675,http://www.papyri.info/ddbdp/p.vind.sijp;;26,p.vind.sijp 26,30477,Letter of Satornilus;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,"Img, Img (ext.);",no,no editorial tremas,,129
+705,http://www.papyri.info/ddbdp/p.warr;;13,p.warr 13,27219,Registration of an Apprentice;,Oxyrhynchos;,62 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,22
+676,http://www.papyri.info/ddbdp/p.wisc;2;73,p.wisc 2 73,26688,Letter of Troilus;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,None;,no,no editorial tremas,,130
+411,http://www.papyri.info/ddbdp/pap.agon;;1,pap.agon 1,16348,"Eingabe, betreffend ein vor dem Archidikastes anhängiges Verfahren;",Oxyrhynchos;,266 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,0
+417,http://www.papyri.info/ddbdp/pap.agon;;10,pap.agon 10,15994,Letter to a Tax - Farmer of the xenike praktoria;,Oxyrhynchos;,206 CE - 212 CE;," grc, grc;",None;,"Img, Img (ext.), Print;",no,no editorial tremas,,6
+412,http://www.papyri.info/ddbdp/pap.agon;;2,pap.agon 2,18516,Edict of a Praefect Concerning Archives;,Oxyrhynchos;,127 CE;," grc, grc;",None;,None;,no,no editorial tremas,,1
+413,http://www.papyri.info/ddbdp/pap.agon;;3,pap.agon 3,17010,Auskunftserteilung durch die βιβλιοφύλακες ἐγκτήσεων über das Vermögen eines Inquisiten;,Oxyrhynchos;,309 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,2
+414,http://www.papyri.info/ddbdp/pap.agon;;4,pap.agon 4,15809,Notice of the Deaths of Slaves;,Oxyrhynchos;,78 CE - 79 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,3
+415,http://www.papyri.info/ddbdp/pap.agon;;5,pap.agon 5,30441,Letter of Apion;,Oxyrhynchos;,196 CE - 198 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,4
+416,http://www.papyri.info/ddbdp/pap.agon;;8,pap.agon 8,21532,Official Confirmation of the Return of a Will;,Oxyrhynchos;,116 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,5
+467,http://www.papyri.info/ddbdp/psi;1;35,psi 1 35,20124,Letter Concerning Property in Pawn;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,Print;,no,no editorial tremas,,56
+652,http://www.papyri.info/ddbdp/psi;1;93,psi 1 93,31260,Apportionment of Duties to an Exegetes;,Oxyrhynchos;,294 CE;," grc, grc;",None;,None;,no,no editorial tremas,,106
+653,http://www.papyri.info/ddbdp/psi;1;95,psi 1 95,31261,Invitation to Dinner;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,None;,no,no editorial tremas,,107
+768,http://www.papyri.info/ddbdp/psi;10;1106,psi 10 1106,17541,"Eingabe, betreffend ein vor dem Archidikastes anhängiges Verfahren;",Oxyrhynchos;,266 CE;," grc, grc;",None;,"Img (ext.), Print;",no,has marked tremas,,0
+769,http://www.papyri.info/ddbdp/psi;10;1107,psi 10 1107,17542,Edict of a Praefect Concerning Archives;,Oxyrhynchos;,127 CE;," grc, grc;",None;,None;,no,has marked tremas,,1
+487,http://www.papyri.info/ddbdp/psi;12;1248,psi 12 1248,17411,keiner;,Oxyrhynchos;,89 CE;," grc, grc;",None;,"Img, Img (ext.);",no,has marked tremas,,76
+720,http://www.papyri.info/ddbdp/psi;12;1254,psi 12 1254,17416,Letter of Fishermen to a Strategus;,Oxyrhynchos;,128 CE - 131 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,9
+703,http://www.papyri.info/ddbdp/psi;13;1333,psi 13 1333,30569,Letter of the Senate to the Strategus;,Oxyrhynchos;,310 CE - 311 CE;," grc, grc;",None;,Print;,no,has marked tremas,,20
+704,http://www.papyri.info/ddbdp/psi;13;1334,psi 13 1334,30570,Registration of an Apprentice;,Oxyrhynchos;,58 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,21
+488,http://www.papyri.info/ddbdp/psi;13;1357,psi 13 1357,17257,keiner;,Oxyrhynchos;,81 CE - 83 CE;," grc, grc;",None;,Print;,no,has marked tremas,,77
+489,http://www.papyri.info/ddbdp/psi;14;1414,psi 14 1414,27055,keiner;,Oxyrhynchos;,99 CE - 100 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,78
+490,http://www.papyri.info/ddbdp/psi;14;1415,psi 14 1415,27056,keiner;,Oxyrhynchos;,100 CE;," grc, grc;",None;,Print;,no,no editorial tremas,,79
+491,http://www.papyri.info/ddbdp/psi;14;1418,psi 14 1418,30468,keiner;,Oxyrhynchos;,100 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,80
+492,http://www.papyri.info/ddbdp/psi;14;1419,psi 14 1419,30469,keiner;,Oxyrhynchos;,95 CE - 100 CE;," grc, grc;",None;,None;,no,no editorial tremas,,81
+493,http://www.papyri.info/ddbdp/psi;14;1420,psi 14 1420,30470,keiner;,Oxyrhynchos;,76 CE - 100 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,82
+721,http://www.papyri.info/ddbdp/psi;15;1523,psi 15 1523,114316,Plainte au sujet d’une ruade;,Oxyrhynchos;,59 CE;," grc, grc;",None;,None;,no,no editorial tremas,,10
+722,http://www.papyri.info/ddbdp/psi;15;1535,psi 15 1535,114321,Official correspondence;,Oxyrhynchos;,297 CE - 298 CE;," grc, grc;",None;,None;,no,has marked tremas,,11
+759,http://www.papyri.info/ddbdp/psi;15;1547,psi 15 1547,114325,Edict of a Praefect Concerning Archives;,Oxyrhynchos;,127 CE;," grc, grc;",None;,None;,no,no editorial tremas,,1
+658,http://www.papyri.info/ddbdp/psi;15;1553,psi 15 1553,114331,Letter of Thais;,Oxyrhynchos;,176 CE - 200 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,112
+659,http://www.papyri.info/ddbdp/psi;15;1554,psi 15 1554,30425,Letter of Diogenes;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,None;,no,no editorial tremas,,113
+740,http://www.papyri.info/ddbdp/psi;15;1558,psi 15 1558,30426,"Eingabe, betreffend ein vor dem Archidikastes anhängiges Verfahren;",Oxyrhynchos;,266 CE;," grc, grc;",None;,"Img (ext.), Print;",no,has marked tremas,,0
+494,http://www.papyri.info/ddbdp/psi;16;1646,psi 16 1646,316284,keiner;,Oxyrhynchos;,76 CE - 100 CE;," grc, grc;",None;,None;,no,no editorial tremas,,83
+468,http://www.papyri.info/ddbdp/psi;3;177,psi 3 177,28065,Letter of Consolation;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,"Img (ext.), Print;",no,has marked tremas,,57
+469,http://www.papyri.info/ddbdp/psi;3;206,psi 3 206,31222,Letter;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,None;,no,no editorial tremas,,58
+470,http://www.papyri.info/ddbdp/psi;3;208,psi 3 208,33228,Letter;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,None;,no,no editorial tremas,,59
+471,http://www.papyri.info/ddbdp/psi;3;214,psi 3 214,20035,Letter;,Oxyrhynchos;,276 CE - 300 CE;," grc, grc;",None;,None;,no,no editorial tremas,,60
+472,http://www.papyri.info/ddbdp/psi;3;220,psi 3 220,31226,A Boy’s Letter;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,Print;,no,has marked tremas,,61
+782,http://www.papyri.info/ddbdp/psi;4;281,psi 4 281,27850,Invitation to the Kline of Sarapis;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,"Img, Img (ext.), Print;",27851,has marked tremas,,11
+751,http://www.papyri.info/ddbdp/psi;4;281,psi 4 281,27851,Invitation to the Kline of Sarapis;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,"Img, Img (ext.), Print;",head,has marked tremas,,8
+473,http://www.papyri.info/ddbdp/psi;4;282,psi 4 282,19277,Two Letters;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,None;,no,has marked tremas,,62
+474,http://www.papyri.info/ddbdp/psi;4;285,psi 4 285,19279,Letter;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,None;,no,has marked tremas,,63
+475,http://www.papyri.info/ddbdp/psi;4;286,psi 4 286,31130,Petition of Dionysia to the Praefect;,Oxyrhynchos;,186 CE;," grc, grc;",None;,"Img (ext.), Print;",no,has marked tremas,,64
+476,http://www.papyri.info/ddbdp/psi;4;292,psi 4 292,31131,Registration of a Sale;,Oxyrhynchos;,77 CE;," grc, grc;",None;,"Img (ext.), Print;",no,has marked tremas,,65
+477,http://www.papyri.info/ddbdp/psi;4;298,psi 4 298,19284,Registration of a Mortgage;,Oxyrhynchos;,79 CE;," grc, grc;",None;,None;,no,has marked tremas,,66
+478,http://www.papyri.info/ddbdp/psi;4;299,psi 4 299,31133,Loan of Money;,Oxyrhynchos;,57 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,67
+479,http://www.papyri.info/ddbdp/psi;5;447,psi 5 447,19293,Extortion by a Tax - Collector;,Oxyrhynchos;,50 CE;," grc, grc;",None;,"Img (ext.), Print;",no,has marked tremas,,68
+480,http://www.papyri.info/ddbdp/psi;5;449,psi 5 449,19296,Extortion by a Tax - Collector;,Oxyrhynchos;,50 CE;," grc, grc;",None;,Print;,no,has marked tremas,,69
+481,http://www.papyri.info/ddbdp/psi;5;454,psi 5 454,19298,Letter Concerning a Property Return;,Oxyrhynchos;,54 CE;," grc, grc;",None;,"Img, Img (ext.);",no,no editorial tremas,,70
+482,http://www.papyri.info/ddbdp/psi;5;457,psi 5 457,19301,Letter Concerning a Mouse - Catcher;,Oxyrhynchos;,76 CE - 100 CE;," grc, grc;",None;,None;,no,has marked tremas,,71
+483,http://www.papyri.info/ddbdp/psi;5;472,psi 5 472,19311,Letter to a Relative;,Oxyrhynchos;,76 CE - 100 CE;," grc, grc;",None;,None;,no,has marked tremas,,72
+484,http://www.papyri.info/ddbdp/psi;6;716,psi 6 716,18968,keiner;,Oxyrhynchos;,76 CE - 100 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,73
+485,http://www.papyri.info/ddbdp/psi;7;767,psi 7 767,17651,keiner;,Oxyrhynchos;,77 CE - 83 CE;," grc, grc;",None;,"Img, Img (ext.);",no,has marked tremas,,74
+719,http://www.papyri.info/ddbdp/psi;7;870E,psi 7 870E,27244,Invitation to the Kline of Sarapis;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,"Img, Img (ext.), Print;",no,no editorial tremas,,8
+771,http://papyri.info/ddbdp/psi;8;899,psi 8 899,29468,n/a_account,Oxyrhynchos,100 CE - 199 CE,"grc, grc;",None;,None;,30708,has marked tremas,,0
+752,http://www.papyri.info/ddbdp/psi;8;899,psi 8 899,30708,Letter of Fishermen to a Strategus;,Oxyrhynchos;,128 CE - 131 CE;," grc, grc;",None;,Img (ext.);,head,has marked tremas,,9
+486,http://www.papyri.info/ddbdp/psi;8;940,psi 8 940,17596,Order to the Agoranomos to Register the Sale of a Slave;,Oxyrhynchos;,89 CE;," grc, grc;",None;,"Img (ext.), Print;",no,has marked tremas,,75
+654,http://www.papyri.info/ddbdp/psi;8;970,psi 8 970,30713,Invitation to a Wedding;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,108
+655,http://www.papyri.info/ddbdp/psi;9;1033,psi 9 1033,17464,Letter of Lucius;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,109
+656,http://www.papyri.info/ddbdp/psi;9;1041,psi 9 1041,30662,Letter to Ptolemaeus from his Mother;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,110
+657,http://www.papyri.info/ddbdp/psi;9;1080,psi 9 1080,30667,Letter of Theopompus to a Strategus;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,None;,no,has marked tremas,,111
+495,http://www.papyri.info/ddbdp/psi.com;12;10,psi.com 12 10,700723,keiner;,Oxyrhynchos;,76 CE - 100 CE;," grc, grc;",None;,None;,no,no editorial tremas,,84
+660,http://www.papyri.info/ddbdp/psi.com;6;16,psi.com 6 16,78847,Letter of Aurelius Stephanus;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,114
+723,http://www.papyri.info/ddbdp/psi.com;6;17,psi.com 6 17,78848,Miscellaneous papyri;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,None;,no,no editorial tremas,,12
+661,http://www.papyri.info/ddbdp/psi.congr.xx;;13,psi.congr.xx 13,23915,Letter of Serenus;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,None;,no,no editorial tremas,,115
+497,http://www.papyri.info/ddbdp/psi.congr.xxi;;13,psi.congr.xxi 13,22654,Application for Leave to Mortgage;,Oxyrhynchos;,108 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,86
+496,http://www.papyri.info/ddbdp/psi.congr.xxi;;8,psi.congr.xxi 8,22652,Circular to Officials;,Oxyrhynchos;,184 CE - 216 CE;," grc, grc;",None;,None;,no,no editorial tremas,,85
+504,http://www.papyri.info/ddbdp/sb;10;10275,sb 10 10275,16752,Letter of Serenus;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,None;,no,has marked tremas,,93
+505,http://www.papyri.info/ddbdp/sb;10;10493,sb 10 10493,16772,Letter to Athenarus;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,94
+677,http://www.papyri.info/ddbdp/sb;10;10556,sb 10 10556,30639,Edict of a Praefect;,Oxyrhynchos;,206 CE;," grc, grc;",None;,Print;,no,no editorial tremas,,131
+725,http://www.papyri.info/ddbdp/sb;10;10557,sb 10 10557,30640,Petition an den Präfekten von Ägypten Flavius Philagrius;,Oxyrhynchos;,334 CE - 340 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,14
+733,http://www.papyri.info/ddbdp/sb;12;10772,sb 12 10772,26702,"Eingabe, betreffend ein vor dem Archidikastes anhängiges Verfahren;",Oxyrhynchos;,266 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,0
+678,http://www.papyri.info/ddbdp/sb;12;10918,sb 12 10918,30248,Application for Payment;,Oxyrhynchos;,306 CE;," grc, grc;",None;,None;,no,has marked tremas,,132
+726,http://www.papyri.info/ddbdp/sb;12;11020,sb 12 11020,26770,Rechtfertigung eines Dammaufsehers gegenüber dem Idioslogos;,Oxyrhynchos;,148 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,15
+727,http://www.papyri.info/ddbdp/sb;12;11022,sb 12 11022,25067,Anweisung an die Totengräber;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,16
+506,http://www.papyri.info/ddbdp/sb;12;11165,sb 12 11165,16395,"Eingabe, betreffend ein vor dem Archidikastes anhängiges Verfahren;",Oxyrhynchos;,266 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,0
+507,http://www.papyri.info/ddbdp/sb;12;11166,sb 12 11166,16396,Edict of a Praefect Concerning Archives;,Oxyrhynchos;,127 CE;," grc, grc;",None;,None;,no,no editorial tremas,,1
+508,http://www.papyri.info/ddbdp/sb;12;11167,sb 12 11167,16397,Auskunftserteilung durch die βιβλιοφύλακες ἐγκτήσεων über das Vermögen eines Inquisiten;,Oxyrhynchos;,309 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,2
+509,http://www.papyri.info/ddbdp/sb;12;11168,sb 12 11168,16398,Notice of the Deaths of Slaves;,Oxyrhynchos;,78 CE - 79 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,3
+510,http://www.papyri.info/ddbdp/sb;12;11244,sb 12 11244,16404,Letter of Apion;,Oxyrhynchos;,196 CE - 198 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,4
+511,http://www.papyri.info/ddbdp/sb;12;11263,sb 12 11263,30328,Official Confirmation of the Return of a Will;,Oxyrhynchos;,116 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,5
+512,http://www.papyri.info/ddbdp/sb;14;11547,sb 14 11547,18144,Letter to a Tax - Farmer of the xenike praktoria;,Oxyrhynchos;,206 CE - 212 CE;," grc, grc;",None;,"Img, Img (ext.), Print;",no,no editorial tremas,,6
+513,http://www.papyri.info/ddbdp/sb;14;11899,sb 14 11899,26548,Invitation to the Kline of Sarapis;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,"Img, Img (ext.), Print;",no,no editorial tremas,,7
+728,http://www.papyri.info/ddbdp/sb;14;12106,sb 14 12106,27515,Gestellungsbürgschaft;,Oxyrhynchos;,173 CE - 174 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,17
+679,http://www.papyri.info/ddbdp/sb;14;12182,sb 14 12182,30924,Notice to the Agoranomus;,Oxyrhynchos;,81 CE - 96 CE;," grc, grc;",None;,None;,no,no editorial tremas,,133
+514,http://www.papyri.info/ddbdp/sb;16;12220,sb 16 12220,16214,Invitation to the Kline of Sarapis;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,"Img, Img (ext.), Print;",no,no editorial tremas,,8
+729,http://www.papyri.info/ddbdp/sb;16;12374,sb 16 12374,16227,Copia (?) di un rapporto di episkepsis;,Oxyrhynchos;,159 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,18
+515,http://www.papyri.info/ddbdp/sb;16;12391,sb 16 12391,16232,Letter of Fishermen to a Strategus;,Oxyrhynchos;,128 CE - 131 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,9
+516,http://www.papyri.info/ddbdp/sb;16;12547,sb 16 12547,30285,Plainte au sujet d’une ruade;,Oxyrhynchos;,59 CE;," grc, grc;",None;,None;,no,no editorial tremas,,10
+770,http://www.papyri.info/ddbdp/sb;16;12579,sb 16 12579,26736,"Eingabe, betreffend ein vor dem Archidikastes anhängiges Verfahren;",Oxyrhynchos;,266 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,0
+730,http://www.papyri.info/ddbdp/sb;16;12606,sb 16 12606,30293,Richiesta di pagamento da parte della corporazione τῶν χαλκέων;,Oxyrhynchos;,283 CE - 292 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,19
+517,http://www.papyri.info/ddbdp/sb;16;12698,sb 16 12698,17451,Official correspondence;,Oxyrhynchos;,297 CE - 298 CE;," grc, grc;",None;,None;,no,no editorial tremas,,11
+518,http://www.papyri.info/ddbdp/sb;16;12987,sb 16 12987,16334,Miscellaneous papyri;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,None;,no,no editorial tremas,,12
+519,http://www.papyri.info/ddbdp/sb;16;12994,sb 16 12994,16338,Inizio di documento ufficiale;,Oxyrhynchos;,72 CE - 73 CE;," grc, grc;",None;,Print;,no,has marked tremas,,13
+680,http://www.papyri.info/ddbdp/sb;16;13003,sb 16 13003,16343,"Petition to a Strategus, etc.;",Oxyrhynchos;,253 CE;," grc, grc;",None;,None;,no,no editorial tremas,,134
+520,http://www.papyri.info/ddbdp/sb;16;13058,sb 16 13058,16360,Petition an den Präfekten von Ägypten Flavius Philagrius;,Oxyrhynchos;,334 CE - 340 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,14
+706,http://www.papyri.info/ddbdp/sb;18;13614,sb 18 13614,27702,Official Letter;,Oxyrhynchos;,188 CE - 190 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,23
+681,http://www.papyri.info/ddbdp/sb;20;14229,sb 20 14229,23697,Order for Vegetable - seed;,Oxyrhynchos;,293 CE;," grc, grc;",None;,None;,no,no editorial tremas,,135
+521,http://www.papyri.info/ddbdp/sb;20;14587,sb 20 14587,23760,Rechtfertigung eines Dammaufsehers gegenüber dem Idioslogos;,Oxyrhynchos;,148 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,15
+522,http://www.papyri.info/ddbdp/sb;20;14635,sb 20 14635,23777,Anweisung an die Totengräber;,Oxyrhynchos;,201 CE - 300 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,16
+523,http://www.papyri.info/ddbdp/sb;20;14681,sb 20 14681,32191,Gestellungsbürgschaft;,Oxyrhynchos;,173 CE - 174 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,17
+524,http://www.papyri.info/ddbdp/sb;20;14975,sb 20 14975,29506,Copia (?) di un rapporto di episkepsis;,Oxyrhynchos;,159 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,18
+525,http://www.papyri.info/ddbdp/sb;20;15180,sb 20 15180,23907,Richiesta di pagamento da parte della corporazione τῶν χαλκέων;,Oxyrhynchos;,283 CE - 292 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,19
+526,http://www.papyri.info/ddbdp/sb;20;15194,sb 20 15194,23909,Letter of the Senate to the Strategus;,Oxyrhynchos;,310 CE - 311 CE;," grc, grc;",None;,Print;,no,no editorial tremas,,20
+527,http://www.papyri.info/ddbdp/sb;22;15349,sb 22 15349,31351,Registration of an Apprentice;,Oxyrhynchos;,58 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,21
+528,http://www.papyri.info/ddbdp/sb;22;15350,sb 22 15350,31352,Registration of an Apprentice;,Oxyrhynchos;,62 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,22
+529,http://www.papyri.info/ddbdp/sb;22;15351,sb 22 15351,20797,Official Letter;,Oxyrhynchos;,188 CE - 190 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,23
+530,http://www.papyri.info/ddbdp/sb;22;15354,sb 22 15354,20798,Entwurf zu einer Eingabe (Neuedition von P.Mich. XI 616);,Oxyrhynchos;,181 CE - 183 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,24
+531,http://www.papyri.info/ddbdp/sb;22;15355,sb 22 15355,20799,Fragment of official letter or petition;,Oxyrhynchos;,341 CE;," grc, grc;",None;,None;,no,no editorial tremas,,25
+532,http://www.papyri.info/ddbdp/sb;22;15357,sb 22 15357,31355,Lettera di Theone ad Heraclide;,Oxyrhynchos;,101 CE - 150 CE;," grc, grc;",None;,Print;,no,no editorial tremas,,26
+533,http://www.papyri.info/ddbdp/sb;22;15358,sb 22 15358,31356,Letter;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,27
+534,http://www.papyri.info/ddbdp/sb;22;15361,sb 22 15361,31357,Letter of Recommendation;,Oxyrhynchos;,101 CE - 300 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,28
+707,http://www.papyri.info/ddbdp/sb;22;15603,sb 22 15603,31395,Entwurf zu einer Eingabe (Neuedition von P.Mich. XI 616);,Oxyrhynchos;,181 CE - 183 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,24
+535,http://www.papyri.info/ddbdp/sb;22;15708,sb 22 15708,25933,Letter of the Strategus of Alexandria concerning Two Stolen Camels;,Oxyrhynchos;,138 CE - 161 CE;," grc, grc;",None;,None;,no,no editorial tremas,,29
+536,http://www.papyri.info/ddbdp/sb;24;16010,sb 24 16010,79283,Report of Public Physician;,Oxyrhynchos;,96 CE;," grc, grc;",None;,Print;,no,no editorial tremas,,30
+537,http://www.papyri.info/ddbdp/sb;24;16077,sb 24 16077,27058,Orders for Delivery of Wine;,Oxyrhynchos;,296 CE - 330 CE;," grc, grc;",None;,None;,no,no editorial tremas,,31
+538,http://www.papyri.info/ddbdp/sb;24;16186,sb 24 16186,79360,Letter to an ἀρχιπροφήτης;,Oxyrhynchos;,276 CE - 300 CE;," grc, grc;",None;,None;,no,no editorial tremas,,32
+539,http://www.papyri.info/ddbdp/sb;24;16251,sb 24 16251,79411,Sale of Taxes;,Oxyrhynchos;,66 CE - 70 CE;," grc, grc;",None;,"Img (ext.), Print;",no,no editorial tremas,,33
+682,http://www.papyri.info/ddbdp/sb;26;16809,sb 26 16809,97068,Order for Purchases;,Oxyrhynchos;,276 CE - 300 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,136
+731,http://www.papyri.info/ddbdp/sb;28;16997,sb 28 16997,383624,Letter of the Senate to the Strategus;,Oxyrhynchos;,310 CE - 311 CE;," grc, grc;",None;,Print;,no,no editorial tremas,,20
+499,http://www.papyri.info/ddbdp/sb;3;7258,sb 3 7258,18869,Petition to the Epistrategus;,Oxyrhynchos;,156 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,88
+742,http://www.papyri.info/ddbdp/sb;6;9025,sb 6 9025,27270,"Eingabe, betreffend ein vor dem Archidikastes anhängiges Verfahren;",Oxyrhynchos;,266 CE;," grc, grc;",None;,"Img (ext.), Print;",no,has marked tremas,,0
+500,http://www.papyri.info/ddbdp/sb;6;9421,sb 6 9421,31102,Order for Payment in Kind;,Oxyrhynchos;,160 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,89
+501,http://www.papyri.info/ddbdp/sb;6;9617,sb 6 9617,19134,Invitation to Dinner;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,Img (ext.);,no,has marked tremas,,90
+502,http://www.papyri.info/ddbdp/sb;8;9862,sb 8 9862,22918,Letter of Cyrillus;,Oxyrhynchos;,101 CE - 200 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,91
+503,http://www.papyri.info/ddbdp/sb;8;9903,sb 8 9903,22926,Letter of Hatres;,Oxyrhynchos;,101 CE - 225 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,92
+540,http://www.papyri.info/ddbdp/zpe;160;189,zpe 160 189,20675,Land Distribution;,Oxyrhynchos;,95 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,34
+541,http://www.papyri.info/ddbdp/zpe;160;190_2,zpe 160 190 2,20677,Land Distribution;,Oxyrhynchos;,100 CE;," grc, grc;",None;,Img (ext.);,no,no editorial tremas,,35
+542,http://www.papyri.info/ddbdp/zpe;160;191,zpe 160 191,20678,Land Distribution;,Oxyrhynchos;,83 CE - 88 CE;," grc, grc;",None;,None;,no,no editorial tremas,,36
+543,http://www.papyri.info/ddbdp/zpe;160;192,zpe 160 192,20679,Emancipation of a Slave;,Oxyrhynchos;,86 CE;," grc, grc;",None;,None;,no,no editorial tremas,,37
+544,http://www.papyri.info/ddbdp/zpe;160;194_2,zpe 160 194 2,20681,Emancipation of a Slave;,Oxyrhynchos;,100 CE;," grc, grc;",None;,None;,no,no editorial tremas,,38
+545,http://www.papyri.info/ddbdp/zpe;160;195,zpe 160 195,20682,Report of a Public Physician;,Oxyrhynchos;,173 CE;," grc, grc;",None;,Print;,no,no editorial tremas,,39
